@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Machine Learning
 draft: false
 tags:
 ---

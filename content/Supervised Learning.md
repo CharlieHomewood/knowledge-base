@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Supervised Learning
 draft: false
 tags:
 ---

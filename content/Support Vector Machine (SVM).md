@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Support Vector Machine (SVM)
 draft: false
 tags:
 ---

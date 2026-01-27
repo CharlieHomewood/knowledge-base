@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: K-Nearest Neighbours (KNN)
 draft: false
 tags:
 ---

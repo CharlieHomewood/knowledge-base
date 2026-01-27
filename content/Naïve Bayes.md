@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Naïve Bayes
 draft: false
 tags:
 ---

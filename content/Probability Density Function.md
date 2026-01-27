@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Probability Density Function
 draft: false
 tags:
 ---

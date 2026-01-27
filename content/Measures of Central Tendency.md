@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Measures of Central Tendency
 draft: false
 tags:
 ---

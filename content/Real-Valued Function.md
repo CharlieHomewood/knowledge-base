@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Real-Valued Function
 draft: false
 tags:
 ---

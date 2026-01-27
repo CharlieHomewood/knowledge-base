@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Standard Deviation
 draft: false
 tags:
 ---

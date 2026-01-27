@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Z-scores
 draft: false
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Recall
 draft: false
 tags:
 ---

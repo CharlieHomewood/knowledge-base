@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Random Forest
 draft: false
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Information Gain
 draft: false
 tags:
 ---

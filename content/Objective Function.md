@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Objective Function
 draft: false
 tags:
 ---

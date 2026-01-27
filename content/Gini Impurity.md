@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Gini Impurity
 draft: false
 tags:
 ---

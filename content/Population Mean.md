@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Population Mean
 draft: false
 tags:
 ---

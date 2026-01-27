@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Linear Regression
 draft: false
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Loss Function
 draft: false
 tags:
 ---

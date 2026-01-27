@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Mean Squared Error
 draft: false
 tags:
 ---

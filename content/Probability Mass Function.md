@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: Probability Mass Function
 draft: false
 tags:
 ---
