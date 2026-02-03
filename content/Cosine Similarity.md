@@ -9,6 +9,8 @@ Cosine similarity scores range between -1 and 1. A score of -1 means the vectors
 
 Cosine similarity does not take into account the size of the vectors, only the direction.
 
+Cosine similarity is commonly used in [[Natural Language Processing|natural language processing]] for document similarity.
+
 ## Formula
 
 The cosine similarity of vectors $a$ and $b$ is given by:

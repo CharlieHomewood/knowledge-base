@@ -7,7 +7,7 @@ The harmonic mean of a set of values is the reciprocal of the [[Arithmetic Mean|
 
 One pertinent application of a harmonic mean in data science is the [[F1 Score|F1 score]], which is the harmonic mean of the [[Precision|precision]] and [[Recall|recall]] of a [[Classification Algorithms|classification algorithm]] in [[Machine Learning|machine learning]].
 
-Other averages also exist, such as the arithmetic mean and the [[Geometric Mean|geometric mean]]. 
+Other averages also exist, such as the [[Arithmetic Mean|arithmetic mean]] and the [[Geometric Mean|geometric mean]]. 
 
 ## Formula
 
