@@ -1,5 +1,5 @@
 ---
-title: Entropy (Information Theory)
+title: Shannon Entropy
 draft: false
 tags:
 ---
@@ -19,13 +19,13 @@ If we are trying to predict whether a datapoint's $y$ label is True or False, th
 
 A dataset like this:
 
-| x   | y     |
-| --- | ----- |
-| 20  | False |
-| 45  | True  |
-| 63  | False |
-| 23  | False |
-| 43  | True  |
+| x   | y    |
+| --- | ---- |
+| 20  | True |
+| 45  | True |
+| 63  | True |
+| 23  | True |
+| 43  | True |
 
 Has $0$ entropy, since all datapoints have the same label (True) and so the distribution of the $y$ class is maximally certain.
 
