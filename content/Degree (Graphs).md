@@ -3,7 +3,7 @@ title: Degree (Graphs)
 draft: false
 tags:
 ---
-The number of edges which a vertex has is called its degree, denoted $k_{i}$.
+The number of edges on a [[Graph|graph]] which a vertex has is called its degree, denoted $k_{i}$.
 
 For the following graph, vertex $A$ has a degree of $2$, where as vertices $B$ and $C$ have a degree of $1$:
 
@@ -30,7 +30,7 @@ $$
 \langle k\rangle = \frac{\sum_{i}k_{i}}{N}
 $$
 
-Which can also be determined by the [[Edge#Density|density]] $d$ of the graph:
+Which can also be determined by the [[Density (Graphs)|density]] $d$ of the graph:
 
 $$
 \langle k \rangle = d(N-1)

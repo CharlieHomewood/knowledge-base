@@ -73,7 +73,7 @@ A tree is an undirected graph where the deletion of a single edge would result i
 
 A subgraph is a subset of nodes in a graph, with all of the edges present between these nodes.
 
-A complete subgraph is a called a clique
+A complete subgraph is a called a clique.
 
 ---
 ## References
