@@ -7,7 +7,7 @@ Linear regression is a [[Supervised Learning|supervised]] [[Machine Learning|mac
 
 ## Formula 
 
-For some vector of continuous outputs $\mathbf{\hat{y}}$, we can predict its value by taking the [[Feature Space|set of features]], weighing them by some set of optimal weights $w$ and adding a bias term $b$. Such an operation produces a straight-line equation for each data point, mapping its feature values to some predicted continuous output value.
+For some vector of continuous outputs $\hat{y}$, we can predict its value by taking the [[Feature Space|set of features]] $X$ (called the [[Design Matrix|design matrix]]), weighing them by some set of optimal weights $w$ and adding a bias term $b$. Such an operation produces a straight-line equation for each data point, mapping the each row of $X$ to some predicted continuous output value.
 
 $$
 \hat{y}=Xw+b=w_{1}x_{1}+\dots+w_{i}x_{i}+\dots+w_{n}x_{n}+b = 
@@ -34,18 +34,14 @@ x_{11} & x_{12} & \dots & x_{1d} \\
 x_{21} & x_{22} & \dots & x_{2d} \\
 \vdots & \vdots & \ddots & \vdots \\
 x_{n1} & x_{n2} & \dots & x_{nd} 
-\end{bmatrix} \in \mathbb{R}^{n\times d}
-\\
-\\
+\end{bmatrix} \in \mathbb{R}^{n\times d} \\
 w&=
 \begin{bmatrix} 
 w_{1}\\
 w_{2}\\
 \vdots\\
 w_{d}
-\end{bmatrix} \in \mathbb{R}^{d}
-\\
-\\
+\end{bmatrix} \in \mathbb{R}^{d} \\
 b &\in \mathbb{R}
 \end{align}
 $$
@@ -82,18 +78,18 @@ $$
 Linear regression takes the form: 
 
 $$
-\hat{y}=\mathbf{X}w
+\hat{y}=Xw
 $$
 
-Provided that $\mathbf{X}^{\top}\mathbf{X}$ is [[Invertible Matrix|invertible]], we can, in theory, find the optimal weights $w^{*}$:
+Provided that $X^{\top}X$ is [[Invertible Matrix|invertible]], we can, in theory, find the optimal weights $w^{*}$:
 
 $$
-w^{*}=(\mathbf{X}^{\top}\mathbf{X})^{-1}\mathbf{X}^{\top}y
+w^{*}=(X^{\top}X)^{-1}X^{\top}y
 $$
 
 This is known as the [[Normal Equation|normal equation]], which minimises the [[Sum of Squared Residuals|sum of squared residuals]].
 
-In practice, this is computationally expensive when the size of $\mathbf{X}$ is large
+In practice, this is computationally expensive when the size of $X$ is large
 
  - Standard practical methods for matrix inversion have a [[Time Complexity|time complexity]] of $O(n^{3})$
 
@@ -106,14 +102,16 @@ Gradient descent uses the derivate of the loss function, with respect to the wei
 Linear regression typically uses [[Mean Squared Error|mean squared error]] as the loss function $L(w)$. As such, the derivative of the mean squared error, with respect to the weights, is given by:
 
 $$
-\frac{\partial L}{\partial W}=\frac{2}{n}\mathbf{X}^{\top}(\mathbf{X}w-y)
+\frac{\partial L}{\partial W}=\frac{2}{n}X^{\top}(Xw-y)
 $$
 
 Thus, at some iteration time $t$, we can find the value of the weights at $t+1$ by subtracting some multiple of the gradient ($\eta$ - this is known as the [[Learning Rate|learning rate]]) from the weights at time $t$:
 
 $$
-w^{(t+1)}=w^{(t)}-\eta\frac{2}{n}\mathbf{X}^{\top}(\mathbf{X}w^{(t)}-y)
+w^{(t+1)}=w^{(t)}-\eta\frac{2}{n}X^{\top}(Xw^{(t)}-y)
 $$
+
+Iterating until convergence will produce an optimal weight vector and bias term.
 
 ---
 ## References
