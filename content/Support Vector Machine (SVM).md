@@ -42,7 +42,7 @@ $$
 $$
 
 Thus, maximising $\displaystyle\frac{2}{||w||}$ will find the optimal hyperplane. 
-
+ - Similarly, minimising $\displaystyle\frac{1}{2}||w^{2}||$ will find the optimal hyperplane.
 
 ## [[Loss Function]]
 
