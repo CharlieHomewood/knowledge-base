@@ -1,5 +1,5 @@
 ---
-title: Perplexity (NLP)
+title: Perplexity
 draft: false
 tags:
 ---
