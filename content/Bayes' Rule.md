@@ -3,11 +3,11 @@ title: Bayes' Rule
 draft: false
 tags:
 ---
-
+Bayes rule is a method for deriving a conditional probability of some event $B$ occurring, given event $A$ has occurred.
 
 ## Formula
 
-For events $A$ and $B$, the probability of $B$ given that $A$ has occurred is:
+For events $A$ and $B$, the probability of $B$ given that $A$ has occurred is given by:
 
 $$
 P(B|A)=\frac{P(A|B)P(B)}{P(A)}

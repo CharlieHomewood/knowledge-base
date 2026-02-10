@@ -11,7 +11,7 @@ Synsets are a collection of words which share a common [[Word Sense|word sense]]
 
 Words can be in more than one synset (called [[Polysemy|polysemous]] words).
 
-Synsets can be placed into a [[Hyponymy#Hyponym Hierarchies|hierachy]]
+Synsets can be placed into a [[Hyponymy#Hyponym Hierarchies|hierarchy]]
 
 ### Concept Similarity Using Synsets
 

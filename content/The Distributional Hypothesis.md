@@ -7,7 +7,7 @@ The distributional hypothesis, as formulated by Harris (1954) stipulates that:
 
 > “Words that occur in the same contexts tend to have similar meanings.” - Harris (1954)
 
-This hypothesis forms a key assumption underlying [[Distributional Semantics|distributional semantics]]
+This hypothesis forms a key assumption underlying [[Distributional Semantics|distributional semantics]].
 
 ---
 ## References

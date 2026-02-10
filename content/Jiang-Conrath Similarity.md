@@ -3,7 +3,7 @@ title: Jiang-Conrath Similarity
 draft: false
 tags:
 ---
-The Jiang-Conrath similarity of two concepts is defined as the inverse of the result found from the sum of the [[Information Content|information content]] of each concept minus $2$ times the [[Resnik Similarity|Resnik similarity]]
+The Jiang-Conrath similarity of two concepts is defined as the inverse of the result found from the sum of the [[Information Content|information content]] of each concept minus $2$ times the [[Resnik Similarity|Resnik similarity]].
 
 ## Formula
 
