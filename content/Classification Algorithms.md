@@ -25,7 +25,7 @@ Classification algorithms are a type of [[Supervised Learning|supervised learnin
  - [[Random Forest]]
  - [[Support Vector Machine (SVM)]]
  - [[K-Nearest Neighbours (KNN)]]
- - [[Naïve Bayes]]
+ - [[Naïve Bayes Classifier]]
 
 ---
 ## References

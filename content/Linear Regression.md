@@ -99,19 +99,33 @@ We can initialise $w$ with random values and iteratively adjust these values to 
 
 Gradient descent uses the derivate of the loss function, with respect to the weights, to adjust the weights in the direction which minimises the loss function. Iterating until convergence optimises the weights of the model.
 
-Linear regression typically uses [[Mean Squared Error|mean squared error]] as the loss function $L(w)$. As such, the derivative of the mean squared error, with respect to the weights, is given by:
+Linear regression typically uses [[Mean Squared Error|mean squared error]] as the loss function $L(w)$. 
 
 $$
-\frac{\partial L}{\partial W}=\frac{2}{n}X^{\top}(Xw-y)
+L(w)=\frac{1}{n}(y_{i}-Xw)^{\top}(y-Xw)
+$$
+
+As such, the derivative of the mean squared error, with respect to the weights, is given by:
+
+$$
+\frac{\partial L}{\partial w}=\frac{2}{n}X^{\top}(Xw-y)
 $$
 
 Thus, at some iteration time $t$, we can find the value of the weights at $t+1$ by subtracting some multiple of the gradient ($\eta$ - this is known as the [[Learning Rate|learning rate]]) from the weights at time $t$:
 
 $$
-w^{(t+1)}=w^{(t)}-\eta\frac{2}{n}X^{\top}(Xw^{(t)}-y)
+w^{(t+1)}=w^{(t)}-\eta\left(\frac{2}{n}X^{\top}(Xw^{(t)}-y)\right)
 $$
 
 Iterating until convergence will produce an optimal weight vector and bias term.
+
+## Regularisation 
+
+To address [[Overfitting|overfitting]] to our training data, we can apply a [[Regularisation|regularisation]] term to our loss function to penalise the assignment of larger weight values:
+
+$$
+L(w)=\frac{1}{n}(y_{i}-Xw)^{\top}(y-Xw)+\alpha\frac{||w||^{2}}{2}
+$$
 
 ---
 ## References
