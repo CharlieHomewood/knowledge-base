@@ -13,7 +13,7 @@ $$
 \text{cov}(X,Y)=\frac{1}{n}\sum_{i}(x_{i}-\bar{x})(y_{i}-\bar{y})
 $$
 
-A special case is the covariance of a random variable with itself $\text{cov}(X,X)$. In such a case, this is simply equivalent to the variance of $X$:
+A special case is the covariance of a random variable with itself $\text{cov}(X,X)$. In such a case, this is simply equivalent to the [[Variance|variance]] of $X$:
 
 $$
 \text{cov}(X,X)=\text{Var}(X)
