@@ -3,7 +3,7 @@ title: Binomial Distribution
 draft: false
 tags:
 ---
-The Bernoulli distribution is a [[Probability Distribution#Discrete Distributions|discrete probability distribution]] of a [[Random Variable|random variable]] for the set of possible outcomes of a $n$ trials of an experiment with only $2$ possible outcomes.
+The Bernoulli distribution is a [[Probability Distribution#Discrete Distributions|discrete probability distribution]] of a [[Random Variable|random variable]] for the set of possible outcomes of $n$ trials of an experiment with only $2$ possible outcomes.
 
 ## Notation
 
