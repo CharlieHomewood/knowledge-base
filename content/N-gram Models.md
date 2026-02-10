@@ -3,7 +3,7 @@ title: N-gram Models
 draft: false
 tags:
 ---
-In [[Natural Language Processing|natural language processing]], N-gram models are a type of [[Language Models|language model]] which predict the next word in a sequence, given some $n$-sized sequence of previous words.
+In [[Natural Language Processing|natural language processing]], [[N-gram]] models are a type of [[Language Models|language model]] which predict the next word in a sequence, given some $n$-sized sequence of previous words.
 
 ## Assumption: [[Markov Property]]
 
@@ -66,8 +66,6 @@ It is more computationally efficient to convert these probabilities to logarithm
 $$
 \log(P_{1} \times P_{2} \times \dots \times P_{n})=\log(P_{1})+\log(P_{2})+\dots+\log(P_{n})
 $$
-
-
 
 ---
 ## References

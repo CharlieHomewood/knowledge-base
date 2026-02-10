@@ -6,7 +6,7 @@ tags:
 Kurtosis is a measure of the degree of "tailedness", or tail extremity, in the [[Probability Distribution|probability distribution]] of a [[Real-Valued Function|real-valued]] [[Random Variable|random variable]]. 
 
 > [!DANGER] Common Misconception
-> Kurtosis is **not** a measure of "peakedness". See Westfall (2014) under [[#References]] for a detailed explanation.
+> Kurtosis is **not** a measure of "peakedness". See [[Kurtosis#^1|Westfall (2014)]] for a detailed explanation.
 
 ## Formula
 
@@ -53,4 +53,4 @@ These distributions have lighter tails than mesokurtic distributions, and so ext
 ---
 ## References
 
-1. Westfall, P.H., 2014. Kurtosis as Peakedness, 1905 – 2014. R.I.P. Am Stat 68, 191–195. [https://doi.org/10.1080/00031305.2014.917055](https://doi.org/10.1080/00031305.2014.917055)
+1. Westfall, P.H., 2014. Kurtosis as Peakedness, 1905 – 2014. R.I.P. Am Stat 68, 191–195. [https://doi.org/10.1080/00031305.2014.917055](https://doi.org/10.1080/00031305.2014.917055)^1
