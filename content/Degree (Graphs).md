@@ -38,7 +38,7 @@ $$
 
 ### Excess degree
 
-We can consider travelling to a vertex from another connected vertex and observing how many edges that vertex has, excluding the edge we just travelled on.
+We can consider travelling to a vertex from another [[Connectedness (Graphs)|connected]] vertex and observing how many edges that vertex has, excluding the edge we just travelled on.
 
 This is given by:
 

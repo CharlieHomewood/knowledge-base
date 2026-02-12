@@ -3,7 +3,7 @@ title: Support Vector Machine (SVM)
 draft: false
 tags:
 ---
-A support vector machine (SVM) is a [[Supervised Learning|supervised]] [[Machine Learning|machine learning]] model used for [[Classification Algorithms|classification]]  and continuous-output prediction tasks.
+uA support vector machine (SVM) is a [[Supervised Learning|supervised]] [[Machine Learning|machine learning]] model used for [[Classification Algorithms|classification]]  and continuous-output prediction tasks.
 
 SVMs aim to find a hyperplane which maximises the margin between two classes whilst still correctly classifying each data point into its appropriate class in the [[Feature Space|feature space]]. This hyperplane is therefore at the midpoint between the two classes.
 

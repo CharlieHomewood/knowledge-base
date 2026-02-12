@@ -9,7 +9,7 @@ The collection of all vertices in a graph $G$ is given by $|V|$
 
 ## Degree
 
-The number of edges connected to a vertex is called the vertex's [[Degree (Graphs)|degree]]
+The number of edges [[Connectedness (Graphs)|connected]] to a vertex is called the vertex's [[Degree (Graphs)|degree]]
 
 ## Strength
 
