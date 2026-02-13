@@ -1,5 +1,5 @@
 ---
-title: Cross-Entropy Loss
+title: Ordinal Data
 draft: false
 tags:
 ---

@@ -67,7 +67,7 @@ G <--> H
 
 ### Trees 
 
-A tree is an undirected graph where the deletion of a single edge would result in one or more nodes being [[Connectedness (Graphs)|disconnected]] from the graph.
+A tree is an undirected graph where the deletion of a single edge would result in one or more nodes being disconnected from the graph.
 
 A tree can also be defined as a [[Connectedness (Graphs)|connected]] graph without any [[Path (Graphs)#Cycles|path cycles]].
 

@@ -27,8 +27,6 @@ D <--> E
 
 A singleton is a component consisting of just one vertex.
 
-
-
 ---
 ## References
 

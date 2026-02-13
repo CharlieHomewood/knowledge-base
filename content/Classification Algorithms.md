@@ -5,7 +5,7 @@ tags:
 ---
 A classification algorithm is an [[Algorithms|algorithm]] used to assign a label to data points.
 
-A classification algorithm is used by a machine learning model to make predictions for which class a given set of input data belongs to.
+A classification algorithm is used by a [[Machine Learning|machine learning]] model to make predictions for which class a given set of input data belongs to.
 
 Classification algorithms are a type of [[Supervised Learning|supervised learning]]. 
 
@@ -18,7 +18,7 @@ Classification algorithms are a type of [[Supervised Learning|supervised learnin
  - Multilabel classification
 	 - More than two nonexclusive categories 
 
-## List of Classification Algorithms
+## List of Common Machine Learning Classification Algorithms
 
  - [[Logistic Regression]]
  - [[Decision Tree]]

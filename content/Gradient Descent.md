@@ -5,7 +5,7 @@ tags:
 ---
 In [[Machine Learning|machine learning]], gradient descent is an optimisation [[Algorithms|algorithm]] used to minimise a [[Loss Function|loss function]] and obtain optimal values for [[Model Parameters|model parameters]].
 
-By finding the derivative of the loss function with respect to the parameters, we can use this information to tell us the direction in which the minimum of the loss function might be.
+By finding the [[Derivative (Calculus)|derivative]] of the loss function with respect to the parameters, we can use this information to tell us the direction in which the minimum of the loss function might be.
 
 The derivative of the loss function with respect to the parameters will obtain a value for each parameter which tells us by how much we should subtract from each parameter value to move closer to the loss function's minimum.
 

@@ -8,4 +8,4 @@ An algorithm is a procedure consisting of well-defined steps, taking some set of
 ---
 ## References
 
-1. Algorithmic Data Science (969G5) - University of Sussex - https://www.sussex.ac.uk/study/modules/postgraduate/2025/102769-algorithmic-data-science
+1. https://www.sussex.ac.uk/study/modules/postgraduate/2025/102769-algorithmic-data-science

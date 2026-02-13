@@ -3,7 +3,7 @@ title: Perplexity
 draft: false
 tags:
 ---
-In [[Information Theory|information theory]], the perplexity of a [[Probability Distribution#Discrete Distributions|discrete probability distribution]] is the number of equally likely outcomes in a uniform distribution whose entropy equals the entropy of the given distribution.
+In information theory, the perplexity of a [[Probability Distribution#Discrete Distributions|discrete probability distribution]] is the number of equally likely outcomes in a uniform distribution whose entropy equals the entropy of the given distribution.
 
 Perplexity is closely related to [[Shannon Entropy|Shannon entropy]] - that is, it is the exponential of the Shannon entropy.
 

@@ -5,7 +5,7 @@ tags:
 ---
 Antonymy describes a relationship between words which have opposite meanings.
 
-Substituting antonyms would lead to a contradiction
+We can note that substituting antonyms would lead to a contradiction is both statements were held to be true.
 
  - E.g. The food is *hot* $\to$ The food is *cold*
 

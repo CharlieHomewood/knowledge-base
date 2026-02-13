@@ -1,5 +1,5 @@
 ---
-title: Information Theory
+title: Sign Function
 draft: false
 tags:
 ---

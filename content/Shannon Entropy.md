@@ -3,7 +3,7 @@ title: Shannon Entropy
 draft: false
 tags:
 ---
-In [[Information Theory|information theory]], entropy is a measure of how "uncertain" the distribution of a class is within a dataset.
+In information theory, entropy is a measure of how "uncertain" the distribution of a class is within a dataset.
 
 Suppose we have the following dataset of values $x$ and labels $y$:
 

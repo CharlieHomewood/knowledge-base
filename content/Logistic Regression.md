@@ -39,7 +39,7 @@ $$
 
 ## [[Loss Function]]
 
-Logistic regression uses [[Cross-Entropy Loss|cross-entropy loss]] $L_{\text{CE}}$ to estimate optimal weights and bias terms via [[Gradient Descent|gradient descent]].
+Logistic regression uses [[Cross-Entropy|cross-entropy loss]] $L_{\text{CE}}$ to estimate optimal weights and bias terms via [[Gradient Descent|gradient descent]].
 
 ### Formula
 
@@ -63,7 +63,7 @@ $$
 
 ##### Gradient Descent 
 
-Thus, to find the optimal weights and bias term for a logistic regression model, we can take the derivative of the cross-entropy loss with respect to the weights, and with respect to the bias term:
+Thus, to find the optimal weights and bias term for a logistic regression model, we can take the [[Derivative (Calculus)|derivative]] of the cross-entropy loss with respect to the weights, and with respect to the bias term:
 
 $$
 \begin{align}

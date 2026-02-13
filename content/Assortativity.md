@@ -17,9 +17,9 @@ If, instead, more connected nodes become more similar, then influence is the mec
 
 ### [[Degree (Graphs)|Degree]] Assortativity 
 
-Degree assortativity is the tendency of vertices to connect to other vertices with similar degrees
+Degree assortativity is the tendency of vertices to connect to other vertices with similar degrees.
 
-This can be computed by [[Correlation|correlating]] the degree of vertex $j$ and the [[Degree (Graphs)#Average degree|average degree]] of the neighbouring vertices
+This can be computed by [[Correlation|correlating]] the degree of vertex $j$ and the [[Degree (Graphs)#Average degree|average degree]] of the neighbouring vertices.
 
 ---
 ## References

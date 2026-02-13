@@ -8,6 +8,9 @@ A correlation indicates the degree to which one [[Random Variable|random variabl
 ## Types
 
  - [[Pearson Correlation Coefficient]]
+ - [[Rank Correlation|Rank Correlations]]
+	 - [[Kendall Rank Correlation Coefficient]]
+	 - [[Spearman's Rank Correlation Coefficient]]
 
 ---
 ## References

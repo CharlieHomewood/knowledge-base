@@ -25,7 +25,7 @@ $$
 \mu_{r} = \sum_{i}(x_{i}-\mu)^{r}~P(X=x_{i})
 $$
 
-For [[Probability Distribution#Continuous Distributions|continuous probability distributions]], we use the following integral, where $f(x)$ is some [[Probability Density Function|probability density function]]:
+For [[Probability Distribution#Continuous Distributions|continuous probability distributions]], we use the following [[Integral|integral]], where $f(x)$ is some [[Probability Density Function|probability density function]]:
 
 $$
 \mu_{r} = \int_{-\infty}^{\infty}(x-\mu)^{r}~f(x)~d(x)

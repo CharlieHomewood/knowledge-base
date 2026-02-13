@@ -18,8 +18,6 @@ a_{m1} & a_{m2} & \dots & a_{mn}
 \end{bmatrix}
 $$
 
-
-
 ---
 ## References
 

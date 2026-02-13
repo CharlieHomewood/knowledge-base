@@ -105,7 +105,7 @@ $$
 L(w)=\frac{1}{n}(y_{i}-Xw)^{\top}(y-Xw)
 $$
 
-As such, the derivative of the mean squared error, with respect to the weights, is given by:
+As such, the [[Derivative (Calculus)|derivative]] of the mean squared error, with respect to the weights, is given by:
 
 $$
 \frac{\partial L}{\partial w}=\frac{2}{n}X^{\top}(Xw-y)
