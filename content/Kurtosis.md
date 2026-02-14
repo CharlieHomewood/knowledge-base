@@ -3,7 +3,7 @@ title: Kurtosis
 draft: false
 tags:
 ---
-Kurtosis is a measure of the degree of "tailedness", or tail extremity, in the [[Probability Distribution|probability distribution]] of a [[Real-Valued Function|real-valued]] [[Random Variable|random variable]]. 
+Kurtosis is a measure of the degree of "tailedness", or tail extremity, in the [[Probability Distribution|probability distribution]] of a [[Real Numbers|real-valued]] [[Random Variable|random variable]]. 
 
 > [!DANGER] Common Misconception
 > Kurtosis is **not** a measure of "peakedness". See [[Kurtosis#^1|Westfall (2014)]] for a detailed explanation.

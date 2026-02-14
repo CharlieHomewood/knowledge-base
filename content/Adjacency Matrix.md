@@ -5,7 +5,7 @@ tags:
 ---
 An adjacency matrix is a [[Square Matrix|square matrix]] which is used to represent the all possible [[Connectedness (Graphs)|connections]] in a given [[Graph|graph]].
  
-Elements $a_{ij}$ of the matrix $A$ are [[Boolean Value|Boolean values]] ($0$ or $1$), where $1$ indicates that the [[Vertex|vertices]] $i$ and $j$ are adjacent (connected by an [[Edge|edge]]).
+Elements $a_{ij}$ of the matrix $A$ are [[Boolean Data|Boolean values]] ($0$ or $1$), where $1$ indicates that the [[Vertex|vertices]] $i$ and $j$ are adjacent (connected by an [[Edge|edge]]).
 
 An [[Graph#Undirected graphs|undirected graph]] will have a symmetric adjacency matrix (i.e. $a_{ij}=a_{ji}$).
 

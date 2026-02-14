@@ -1,5 +1,5 @@
 ---
-title: Real-Valued Function
+title: Continuous-Time Markov Chains
 draft: false
 tags:
 ---

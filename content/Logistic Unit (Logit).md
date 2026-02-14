@@ -31,7 +31,7 @@ $$
 \text{odds}=\frac{P(Y=1|X)}{P(Y=0|X)}
 $$
 
-As we are making use of a linear model, our weights and features are all [[Real-Valued Function|real-valued]] between $(-\infty, \infty)$ and so the output must also be real-valued $(-\infty, \infty)$. But since odds are bounded $[0,\infty)$, we need to convert them such that they are unbounded. 
+As we are making use of a linear model, our weights and features are all [[Real Numbers|real-valued]] between $(-\infty, \infty)$ and so the output must also be real-valued $(-\infty, \infty)$. But since odds are bounded $[0,\infty)$, we need to convert them such that they are unbounded. 
 
 We can achieve this by taking the natural log of the odds, known as the logistic unit (logit) or log-odds:
 

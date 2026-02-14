@@ -3,7 +3,7 @@ title: Cosine Similarity
 draft: false
 tags:
 ---
-Cosine similarity is a measure of the similarity between two vectors in terms of the angle between them.
+[[Cosine]] similarity is a measure of the similarity between two vectors in terms of the angle between them.
 
 Cosine similarity scores range between -1 and 1. A score of -1 means the vectors point in opposite directions, 0 means they are perpendicular and 1 means they point in the exact same direction.
 
