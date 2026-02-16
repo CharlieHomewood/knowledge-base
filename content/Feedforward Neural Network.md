@@ -9,7 +9,7 @@ Below is an example of a simple feedforward neural network:
 
 ![[assets/nn.png|447x404]]
 
-Each [[Vertex|node]] in the hidden layer and output layer represents an [[Artificial Neuron|artificial neuron]], and each [[Edge|edge]] represents the input to that artificial neuron. The output layer artificial neurons typically use the [[Softmax Function|softmax function]] 
+Each [[Vertex|node]] in the hidden layer and output layer represents an [[Artificial Neuron|artificial neuron]], and each [[Edge|edge]] represents the input to that artificial neuron. The output layer artificial neurons typically use the [[Softmax Function|softmax function]]  
 
 ---
 ## References
