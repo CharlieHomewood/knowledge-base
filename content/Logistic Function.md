@@ -8,8 +8,6 @@ The logistic function is a function used to model the growth of some quantity $x
  - Is constrained by some limiting value $L$ (called the carry capacity)
  - Has a growth rate $k$ which depends on the quantity already accumulated.
 
-The logistic function is a specific instance of a [[Sigmoid Function|sigmoid function]].
-
 ## Formula
 
 In general, the logistic function is given by:
@@ -33,7 +31,10 @@ $$
 f(x)=\frac{1}{1+e^{-x}}
 $$
 
+## Applications
 
+ - [[Logistic Regression]]
+ - [[Neural Network|Neural Networks]]
 
 ---
 ## References

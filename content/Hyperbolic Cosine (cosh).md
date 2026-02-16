@@ -1,5 +1,5 @@
 ---
-title: Sigmoid Function
+title: Hyperbolic Cosine (cosh)
 draft: false
 tags:
 ---
