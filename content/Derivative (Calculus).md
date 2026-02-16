@@ -19,6 +19,7 @@ Not all functions can be differentiated at every point. Such non-differentiable 
 
 To find the derivative of a function $f(x)$, we can employ certain rules to help in our calculations.
 
+ - [[Chain Rule]]
  - [[Constant Rule#Derivative (Calculus) Differentiation|Constant Rule]] 
  - [[Linearity Rule#Derivative (Calculus) Differentiation|Linearity of Differentiation]]
  - [[Power Rule#Derivative (Calculus) Differentiation|Power Rule]] 

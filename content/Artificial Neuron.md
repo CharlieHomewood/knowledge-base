@@ -3,7 +3,7 @@ title: Artificial Neuron
 draft: false
 tags:
 ---
-An artificial neuron is a component of a [[Neural Network|neural network]] which comprises of a mathematical function, taking inputs from, and producing outputs for, other artificial neurons.
+An artificial neuron is a component of a [[Neural Network|neural network]] which comprises of a mathematical function, taking inputs from, and producing outputs for, other artificial neurons in the network.
 
 ## Formula
 
