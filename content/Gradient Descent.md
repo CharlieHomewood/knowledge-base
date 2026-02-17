@@ -39,7 +39,9 @@ A function $f(x)$ can have more than one minimum. As such, our gradient descent 
 
 Take the following example. This function $f(x)$ has two minima, but evidently one is lower (relative to the $y$-axis) than the other. Gradient descent could get stuck in the right-most minima and not discover the true global minimum.
 
-![[assets/image-1.png|555x368]]
+<div align="center">
+<img src="./assets/image-1.png" alt="gradient_descent_func" width="550px"/>
+</div>
 
 ### Saddle Points
 

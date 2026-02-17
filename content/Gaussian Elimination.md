@@ -93,6 +93,30 @@ $$
 $$
 \boxed{x=3, y=-14, z=-9}
 $$
+	1. We can double check that these actually are solutions by inputting these values into each expression and checking they find the correct result:
+
+$$
+\begin{align}
+2x+y-z
+&=2(3)+(-14)-(-9)\\
+&=6-14+9\\
+&=-8+9\\
+&=1\\
+\\
+-3x-y+2z
+&=-3(3)-(-14)+2(-9)\\
+&=-9+14-18\\
+&=-8+9\\
+&=1\\
+\\
+-2x+y+2z
+&=-2(3)+(-14)+2(-9)\\
+&=6-14+9\\
+&=-8+9\\
+&=1\\\\
+\end{align}
+
+$$
 
 
 ---

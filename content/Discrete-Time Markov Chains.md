@@ -15,20 +15,14 @@ $$
 
 ## [[Graph]] Representation
 
-We can represent Markov chains using graphs. Each [[Vertex|vertex]] corresponds to a state in our Markov chain and each [[Edge|edge]] is the probability of moving from state $i$ to state $j$.
+We can represent Markov chains using graphs. Each [[Vertex|vertex]] corresponds to a state in our Markov chain and each [[Edge|edge]] is the transition probability of moving from state $i$ to state $j$. 
 
-```dot
-digraph Markov {
-    rankdir=LR;
-    node [shape=circle];
+Below is an example of a Markov chain with two states $A$ and $E$. Note how the transition probabilities which exit from each state sum to $1$, forming valid [[Probability Distribution|probability distributions]].
 
-    A -> B [label="0.6"];
-    A -> C [label="0.4"];
-    B -> A [label="0.3"];
-    B -> C [label="0.7"];
-    C -> C [label="1.0"];
-}
-```
+<div align="center">
+<img src="./assets/markovchain.png" alt="Markov Chain" width="250px"/>
+</div>
+
 ## Properties
 
 ### Accessibility
