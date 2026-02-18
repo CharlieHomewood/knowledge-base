@@ -16,6 +16,20 @@ The means by which information flows in a neural network depends on the particul
  - [[Graph Neural Network (GNN)]]
  - [[Recurrent Neural Network (RNN)]]
 
+## Architecture 
+
+### Input Layer 
+
+The input layer defines the structure of the data being used in the network. Typically, each node in this layer corresponds to the value of an element in a feature vector.
+
+### Hidden Layers 
+
+A hidden layer is, typically, consists of a set of nodes which are fully connected to the previous and subsequent layers. The nodes in the first hidden layer take weighted inputs from each input layer node and, depending on the input value, is activated according to that node's activation function.
+
+### Output Layer 
+
+The output layer represents a final vector where each element corresponds to a potential target variable value. Typically, we would use a [[Softmax Function|softmax activation function]] to convert this vector into a probability distribution and thus the most probable output node corresponds to the network's predicted label for that instance of input data.
+
 ---
 ## References
 

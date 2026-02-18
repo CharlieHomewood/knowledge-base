@@ -3,7 +3,7 @@ title: Hyperbolic Tangent (tanh)
 draft: false
 tags:
 ---
-The hyperbolic tangent (tanh) is a type of [[Hyperbolic Function|hyperbolic function]] which takes some [[Real Numbers|real number]] as an input and produces an output bounded between $0$ and $1$.
+The hyperbolic tangent (tanh) is a type of [[Hyperbolic Function|hyperbolic function]] which takes some [[Real Numbers|real number]] as an input and produces an output bounded between $-1$ and $1$.
 
 ## Formula
 
