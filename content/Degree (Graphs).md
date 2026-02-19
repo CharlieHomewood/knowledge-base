@@ -3,7 +3,7 @@ title: Degree (Graphs)
 draft: false
 tags:
 ---
-The number of edges on a [[Graph|graph]] which a vertex has is called its degree, denoted $k_{i}$.
+The number of [[Edge|edges]] on a [[Graph|graph]] which a [[Vertex|vertex]] has is called its degree, denoted $k_{i}$. The degree of a graph constitutes one possible measure of the centrality of a graph.
 
 For the following graph, vertex $A$ has a degree of $2$, where as vertices $B$ and $C$ have a degree of $1$:
 
@@ -15,7 +15,7 @@ A <--> C
 
 ### In-degree and Out-degree
 
-For a directed graph, vertices can have incoming edges and outgoing edges.
+For a [[Graph#Directed graphs|directed graph]], vertices can have incoming edges and outgoing edges.
 
 We can treat the degrees of these two types of edges separately:
 
