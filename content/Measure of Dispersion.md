@@ -1,5 +1,5 @@
 ---
-title: Nats
+title: Measure of Dispersion
 draft: false
 tags:
 ---

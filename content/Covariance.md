@@ -3,7 +3,7 @@ title: Covariance
 draft: false
 tags:
 ---
-Covariance measures how multiple [[Random Variables|random variables]] vary together when they share a [[Joint Distribution|joint distribution]].
+Covariance measures how multiple [[Random Variable|random variables]] vary together when they share a [[Joint Distribution|joint distribution]].
 
 ## Formula
 
