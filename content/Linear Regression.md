@@ -97,7 +97,7 @@ In practice, this is computationally expensive when the size of $X$ is large
 
 We can initialise $w$ with random values and iteratively adjust these values to minimise a [[Loss Function|loss function]].
 
-Gradient descent uses the derivate of the loss function, with respect to the weights, to adjust the weights in the direction which minimises the loss function. Iterating until convergence optimises the weights of the model.
+Gradient descent uses the [[Derivative (Calculus)|derivative]] of the loss function, with respect to the weights, to adjust the weights in the direction which minimises the loss function. Iterating until convergence optimises the weights of the model.
 
 Linear regression typically uses [[Mean Squared Error|mean squared error]] as the loss function $L(w)$. 
 
@@ -105,7 +105,7 @@ $$
 L(w)=\frac{1}{n}(y_{i}-Xw)^{\top}(y-Xw)
 $$
 
-As such, the [[Derivative (Calculus)|derivative]] of the mean squared error, with respect to the weights, is given by:
+As such, the derivative of the mean squared error, with respect to the weights, is given by:
 
 $$
 \frac{\partial L}{\partial w}=\frac{2}{n}X^{\top}(Xw-y)
