@@ -3,7 +3,7 @@ title: Variance
 draft: false
 tags:
 ---
-Variance is a [[Measure of Dispersion|measure of dispersion]], defined as the [[Expectation Value|expected value]] of the squared deviation from the [[Arithmetic Mean|mean]] of a [[Random Variable|random variable]], which indicates how close data points are to their average value.
+Variance is a [[Measures of Dispersion|measure of dispersion]], defined as the [[Expectation Value|expected value]] of the squared deviation from the [[Arithmetic Mean|mean]] of a [[Random Variable|random variable]], which indicates how close data points are to their average value.
 
 As the units of the variances are always the squared units of the data it is calculated on (e.g. data in meters $\therefore$ variance in meters-squared), we can instead make use of the square root of the variance, known as the [[Standard Deviation|standard deviation]], which is often more intuitive.
 

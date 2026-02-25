@@ -3,7 +3,7 @@ title: Distributional Smoothing
 draft: false
 tags:
 ---
-
+Distributional smoothing is a technique for smoothing the [[Probability Distribution|probability distribution]] of a set of words from a text corpus, improving the representation of rare words by using distributional information about similar words.
 
 ## Formula
 
@@ -16,4 +16,4 @@ $$
 ---
 ## References
 
-1. 
+1. https://aclanthology.org/P94-1038/

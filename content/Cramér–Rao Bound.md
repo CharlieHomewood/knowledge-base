@@ -1,5 +1,5 @@
 ---
-title: Measure of Dispersion
+title: Cramér–Rao Bound
 draft: false
 tags:
 ---
