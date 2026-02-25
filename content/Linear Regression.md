@@ -7,7 +7,7 @@ Linear regression is a [[Supervised Learning|supervised]] [[Machine Learning|mac
 
 ## Formula 
 
-For some vector of continuous outputs $\hat{y}$, we can predict its value by taking the [[Feature Space|set of features]] $X$ (called the [[Design Matrix|design matrix]]), weighing them by some set of optimal weights $w$ and adding a bias term $b$. Such an operation produces a straight-line equation for each data point, mapping the each row of $X$ to some predicted continuous output value.
+For some vector of continuous outputs $\hat{y}$, we can predict its value by taking the [[Feature Space|set of features]] $X$ (called the [[Design Matrix|design matrix]]), weighing them by some set of optimal weights $w$ and adding a bias term $b$. Such an operation produces a straight-line equation for each data point, mapping the value of each row of $X$ to some predicted continuous output value.
 
 $$
 \hat{y}=Xw+b=w_{1}x_{1}+\dots+w_{d}x_{d}+b = 
