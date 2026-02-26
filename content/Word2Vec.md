@@ -32,7 +32,7 @@ The skip-gram architecture aims to predict the surrounding context given some wo
 
 CBOW uses a target embedding to predict the context embeddings.
 
-![[image-1.png|282x347]]
+![[image-1 1.png|282x347]]
 
 #### Training 
 
