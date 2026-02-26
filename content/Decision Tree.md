@@ -24,7 +24,7 @@ flowchart TD
 
 ## Choosing Splitting Criterion for Internal Nodes
 
-Choosing optimal splitting criterion for internal nodes involves minimising some [[Loss Function|loss function]] (or maximising an [[Objective Function|objective function]]).
+Choosing optimal splitting criterion for internal nodes involves minimising some [[Loss Function|loss function]].
 
 For classification, we can choose splitting criterion which minimises [[Shannon Entropy|entropy]] (i.e. maximises [[Information Gain|information gain]]). Minimising entropy means selecting the feature and splitting criterion which pools as much of the data into one group as possible. We can similarly use [[Gini Impurity|Gini impurity]] as well.
 

@@ -3,7 +3,7 @@ title: Joint Distribution
 draft: false
 tags:
 ---
-The joint distribution of two [[Random Variables|random variables]], $X$ and $Y$, refers to the probability of each possible pair of outcomes between $X$ and $Y$
+The joint distribution of two [[Random Variable|random variables]], $X$ and $Y$, refers to the probability of each possible pair of outcomes between $X$ and $Y$
 
 ## Formula
 

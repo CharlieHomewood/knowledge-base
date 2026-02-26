@@ -7,13 +7,8 @@ Regularisation refers to a set of techniques are used in [[Machine Learning|mach
 
 ## Types
 
-### L1 Regularisation 
-
-
-
-### L2 Regularisation
-
-
+ - [[L1 Regularisation]]
+ - [[L2 Regularisation]]
 
 ---
 ## References

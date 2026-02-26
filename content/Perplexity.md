@@ -15,7 +15,7 @@ $$
 \text{PP}(X)=e^{H(X)}
 $$
 
-Where $H(X)$ is the Shannon entropy of $X$, measured in [[Nats|nats]].
+Where $H(X)$ is the Shannon entropy of $X$, measured in [[Nat (Unit)|nats]].
 
 ## Applications
 

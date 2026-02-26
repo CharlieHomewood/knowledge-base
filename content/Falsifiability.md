@@ -1,5 +1,5 @@
 ---
-title: Random Variables
+title: Falsifiability
 draft: false
 tags:
 ---

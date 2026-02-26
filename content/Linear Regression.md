@@ -7,10 +7,10 @@ Linear regression is a [[Supervised Learning|supervised]] [[Machine Learning|mac
 
 ## Formula 
 
-For some vector of continuous outputs $\hat{y}$, we can predict its value by taking the [[Feature Space|set of features]] $X$ (called the [[Design Matrix|design matrix]]), weighing them by some set of optimal weights $w$ and adding a bias term $b$. Such an operation produces a straight-line equation for each data point, mapping the each row of $X$ to some predicted continuous output value.
+For some vector of continuous outputs $\hat{y}$, we can predict its value by taking the [[Feature Space|set of features]] $X$ (called the [[Design Matrix|design matrix]]), weighing them by some set of optimal weights $w$ and adding a bias term $b$. Such an operation produces a straight-line equation for each data point, mapping the value of each row of $X$ to some predicted continuous output value.
 
 $$
-\hat{y}=X^{\top}w+b=w_{1}x_{1}+\dots+w_{n}x_{n}+b = 
+\hat{y}=Xw+b=w_{1}x_{1}+\dots+w_{d}x_{d}+b = 
 \begin{bmatrix}
 x_{1}^{\top}w+b \\
 x_{2}^{\top}w+b \\
@@ -97,7 +97,7 @@ In practice, this is computationally expensive when the size of $X$ is large
 
 We can initialise $w$ with random values and iteratively adjust these values to minimise a [[Loss Function|loss function]].
 
-Gradient descent uses the derivate of the loss function, with respect to the weights, to adjust the weights in the direction which minimises the loss function. Iterating until convergence optimises the weights of the model.
+Gradient descent uses the [[Derivative (Calculus)|derivative]] of the loss function, with respect to the weights, to adjust the weights in the direction which minimises the loss function. Iterating until convergence optimises the weights of the model.
 
 Linear regression typically uses [[Mean Squared Error|mean squared error]] as the loss function $L(w)$. 
 
@@ -105,7 +105,7 @@ $$
 L(w)=\frac{1}{n}(y_{i}-Xw)^{\top}(y-Xw)
 $$
 
-As such, the [[Derivative (Calculus)|derivative]] of the mean squared error, with respect to the weights, is given by:
+As such, the derivative of the mean squared error, with respect to the weights, is given by:
 
 $$
 \frac{\partial L}{\partial w}=\frac{2}{n}X^{\top}(Xw-y)

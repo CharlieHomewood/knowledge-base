@@ -25,6 +25,7 @@ $$
 | [[Arithmetic Mean\|Mean]]                     | $$p$$                                                                                                          |
 | [[Median]]                                    | $$\text{Median}\begin{cases}0 &\text{if }p<1/2 \\ [0,1] &\text{if }p=1/2 \\1 &\text{if }p>1/2 \\ \end{cases}$$ |
 | [[Mode]]                                      | $$\text{Mode}\begin{cases}0 &\text{if }p<1/2 \\ 0,1 &\text{if }p=1/2 \\1 &\text{if }p>1/2 \\ \end{cases}$$     |
+| [[Variance]]                                  | $$p(1-p)$$                                                                                                     |
 | [[Skewness]]                                  | $$\frac{(1-p)-p}{\sqrt{p(1-p)}}$$                                                                              |
 | [[Kurtosis#Excess Kurtosis\|Excess Kurtosis]] | $$\frac{1-6p(1-p)}{p(1-p)}$$                                                                                   |
 
