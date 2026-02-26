@@ -31,14 +31,14 @@ xychart-beta
 
 For realistic graphs, we would tend to expect the distribution to resemble an [[Exponential Distribution|exponential distribution]]. 
 
-## [[Heterogeneity]]
+## [[Degree Heterogeneity]]
 
 We can consider how broad the degree distribution is by evaluating its heterogeneity.
 
 $$
 \kappa =\frac{\langle k^{2} \rangle}{\langle k \rangle^{2}}
 $$
-- [ ] 
+
 Where:
 
  - $\displaystyle\langle k \rangle=\frac{\sum_{i}k_{i}}{N}=\frac{2L}{N}$

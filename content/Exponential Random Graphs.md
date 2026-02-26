@@ -1,5 +1,5 @@
 ---
-title: Heterogeneity
+title: Exponential Random Graphs
 draft: false
 tags:
 ---
