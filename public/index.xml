@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Knowledge Base</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Knowledge Base</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Absolute Discounting</title>
+    <link>https://quartz.jzhao.xyz/Absolute-Discounting</link>
+    <guid>https://quartz.jzhao.xyz/Absolute-Discounting</guid>
+    <description><![CDATA[ Absolute discounting is a smoothing technique for n-gram models. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+  </item><item>
+    <title>Activation Function</title>
+    <link>https://quartz.jzhao.xyz/Activation-Function</link>
+    <guid>https://quartz.jzhao.xyz/Activation-Function</guid>
+    <description><![CDATA[ An activation function is a tool used in neural networks to introduce non-linearity to the outputs of artificial neurons in the network. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+  </item><item>
+    <title>Ad Hoc Hypothesis</title>
+    <link>https://quartz.jzhao.xyz/Ad-Hoc-Hypothesis</link>
+    <guid>https://quartz.jzhao.xyz/Ad-Hoc-Hypothesis</guid>
+    <description><![CDATA[ An ad hoc hypothesis is an additional explanatory factor which is added to a theory to protect that theory from potentially falsifying evidence. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+  </item><item>
+    <title>Adaptive Algorithms</title>
+    <link>https://quartz.jzhao.xyz/Adaptive-Algorithms</link>
+    <guid>https://quartz.jzhao.xyz/Adaptive-Algorithms</guid>
+    <description><![CDATA[ An adaptive algorithm is an algorithm whose behaviour is dynamically altered during the course of its run time based on new information provided after each iteration. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+  </item><item>
+    <title>Adjacency Matrix</title>
+    <link>https://quartz.jzhao.xyz/Adjacency-Matrix</link>
+    <guid>https://quartz.jzhao.xyz/Adjacency-Matrix</guid>
+    <description><![CDATA[ An adjacency matrix is a square matrix which is used to represent the all possible connections in a given graph. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+  </item><item>
+    <title>Algorithms</title>
+    <link>https://quartz.jzhao.xyz/Algorithms</link>
+    <guid>https://quartz.jzhao.xyz/Algorithms</guid>
+    <description><![CDATA[ An algorithm is a procedure consisting of well-defined steps, taking some set of inputs to produce some set of outputs. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+  </item><item>
+    <title>Antonymy</title>
+    <link>https://quartz.jzhao.xyz/Antonymy</link>
+    <guid>https://quartz.jzhao.xyz/Antonymy</guid>
+    <description><![CDATA[ Antonymy describes a relationship between words which have opposite meanings. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+  </item><item>
+    <title>Arithmetic Mean</title>
+    <link>https://quartz.jzhao.xyz/Arithmetic-Mean</link>
+    <guid>https://quartz.jzhao.xyz/Arithmetic-Mean</guid>
+    <description><![CDATA[ The arithmetic mean is a measure of central tendency, defined as the sum of a set of values, divided by the number of values in the set. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+  </item><item>
+    <title>Artificial Neuron</title>
+    <link>https://quartz.jzhao.xyz/Artificial-Neuron</link>
+    <guid>https://quartz.jzhao.xyz/Artificial-Neuron</guid>
+    <description><![CDATA[ An artificial neuron is a component of a neural network which comprises of a mathematical function, taking inputs from, and producing outputs for, other artificial neurons in the network. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+  </item><item>
+    <title>Assortativity</title>
+    <link>https://quartz.jzhao.xyz/Assortativity</link>
+    <guid>https://quartz.jzhao.xyz/Assortativity</guid>
+    <description><![CDATA[ Assortativity refers to the tendency for vertices in a graph to connect to other similar vertices. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
