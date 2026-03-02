@@ -21,9 +21,14 @@ $$
 P(Y=C_{k}|X)=\frac{P(X|Y=C_{k})P(Y=C_{k})}{P(X)}
 $$
 
-$P(Y=C_{k})$, the [[Prior Probability|prior probability]] of each class, is just estimated by using [[Bayes Classifier#Estimating the Prior Probability of Each Class|the relative frequency of each class]].
+This can be simplified by ignoring the denominator $P(X)$, as this simply a normalisation term which is not necessary for a pure classification task (although it would be needed if the value of $P(Y=C_{k}|X)$ needed to be interpreted directly):
 
-For a naïve Bayes classifier with the assumption $[x_{i}|C_{k}] \sim \mathcal{N}(\mu,\sigma^{2})$, we can express $P(X|Y=C_{k})$ using the [[Probability Density Function|probability density function]] of a normal distribution:
+$$
+P(Y=C_{k}|X)=P(X|Y=C_{k})P(Y=C_{k})
+$$
+
+ - $P(Y=C_{k})$, the [[Prior Probability|prior probability]] of each class, is just estimated by using [[Bayes Classifier#Estimating the Prior Probability of Each Class|the relative frequency of each class]].
+ - We can express $P(X|Y=C_{k})$ using some assumed [[Probability Density Function|probability density function]], such as a normal distribution $[x_{i}|C_{k}] \sim \mathcal{N}(\mu,\sigma^{2})$:
 
 $$
 P(X|Y=C_{k})=\prod_{i=i}^{n}P(x_{i}|C_{k})=\prod_{i=1}^{n}\frac{1}{\sqrt{2\pi\sigma_{ki}^{2}}}e^{\displaystyle -\frac{(x_{i}-\mu_{ki})^{2}}{2\sigma_{ki}^{2}}}

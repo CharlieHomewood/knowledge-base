@@ -1,0 +1,13 @@
+{
+  "foldersToScan": [
+    "content"
+  ],
+  "ignoredFolders": [],
+  "disableAutomaticUpdates": false,
+  "showRefreshButton": true,
+  "foldersToForceUpdate": [
+    "content"
+  ],
+  "showErrorNotifications": true,
+  "debugLogging": false
+}

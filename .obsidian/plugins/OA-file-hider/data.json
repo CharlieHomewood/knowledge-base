@@ -1,0 +1,11 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "node_modules",
+    "public",
+    "quartz",
+    "CODE_OF_CONDUCT.md",
+    "README.md",
+    "docs"
+  ]
+}

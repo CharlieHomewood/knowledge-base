@@ -1,0 +1,12 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "public/",
+    "node_modules/",
+    "quartz/",
+    "node_modules/"
+  ],
+  "attachmentFolderPath": "content/assets"
+}
