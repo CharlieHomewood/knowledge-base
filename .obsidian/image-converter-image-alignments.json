@@ -6,5 +6,27 @@
       "height": "",
       "wrap": false
     }
+  },
+  "content/ROC Curve.md": {
+    "b99c72ae0edb1cefd86206f4dd2584e6": {
+      "position": "center",
+      "width": "291px",
+      "height": "288px",
+      "wrap": false
+    },
+    "1a6d1decc0dc206d5394d374f6b8a7e6": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/K-Fold Cross Validation.md": {
+    "125b9fdd9428adfd2ea9c17b68e69846": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
   }
 }

@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6253fe621873b284",
+        "id": "b532ea26b7130a02",
         "type": "tabs",
         "children": [
           {
-            "id": "fcb58659d5f024d7",
+            "id": "462ff7131caa37aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Bag-of-Words.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bag-of-Words"
-            }
-          },
-          {
-            "id": "f8c7702491edc418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Naïve Bayes Classifier.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Naïve Bayes Classifier"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5069465637207
+    "width": 259.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "8b5b4c6433eb4166",
@@ -109,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Naïve Bayes Classifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Naïve Bayes Classifier"
+              "title": "Backlinks"
             }
           },
           {
@@ -179,11 +160,13 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,11 +181,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f8c7702491edc418",
+  "active": "462ff7131caa37aa",
   "lastOpenFiles": [
-    "content/Bayes Classifier.md",
+    "content/ROC Curve.md",
+    "content/K-Fold Cross Validation.md",
+    "content/assets/image-3.png",
+    "content/False Positive Rate.md",
+    "content/Recall.md",
+    "content/F1 Score.md",
+    "content/Precision.md",
+    "content/Accuracy.md",
     "content/Naïve Bayes Classifier.md",
     "content/Bag-of-Words.md",
+    "content/Bayes Classifier.md",
     "content/Confusion Matrix.md",
     "content/False Positives.md",
     "content/Type 2 Error.md",
@@ -229,14 +220,7 @@
     "node_modules/request/README.md",
     "node_modules/request/CHANGELOG.md",
     "node_modules/quartz/README.md",
-    "node_modules/core-util-is/README.md",
-    "node_modules/punycode/README.md",
-    "node_modules/psl/SECURITY.md",
-    "node_modules/psl/README.md",
     "node_modules/psl/browserstack-logo.svg",
-    "node_modules/tweetnacl/README.md",
-    "node_modules/tweetnacl/PULL_REQUEST_TEMPLATE.md",
-    "node_modules/tweetnacl/CHANGELOG.md",
     "content/assets/nn.png",
     "content/assets/image.png",
     "content/assets/markovchain.png",
@@ -244,7 +228,6 @@
     "content/assets/image-1.png",
     "content/assets/image-1 1.png",
     "public/Ad-Hoc-Hypothesis-og-image.webp",
-    "public/Falsifiability-og-image.webp",
-    "public/Parsimony-og-image.webp"
+    "public/Falsifiability-og-image.webp"
   ]
 }
