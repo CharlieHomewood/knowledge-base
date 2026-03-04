@@ -1,5 +1,5 @@
 ---
-title: Gilbert Random Graph
+title: Gilbert Random Graph Model
 draft: false
 tags:
 ---

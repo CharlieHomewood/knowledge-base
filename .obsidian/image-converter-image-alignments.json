@@ -13,16 +13,30 @@
       "width": "291px",
       "height": "288px",
       "wrap": false
+    }
+  },
+  "content/Word2Vec.md": {
+    "ced7b6ee047fc11d53260f1faa579875": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
     },
-    "1a6d1decc0dc206d5394d374f6b8a7e6": {
+    "1f4228244fbc78a5f55c0dd70e9222f3": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     }
   },
-  "content/K-Fold Cross Validation.md": {
-    "125b9fdd9428adfd2ea9c17b68e69846": {
+  "content/Word Sense.md": {
+    "7f91c6be304dd6fce976937a7548c32d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "85c7253ca2932242cd26a1eeeda08ce2": {
       "position": "center",
       "width": "",
       "height": "",

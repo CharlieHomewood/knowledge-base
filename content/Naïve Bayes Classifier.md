@@ -15,7 +15,7 @@ Such an assumption makes the use of such a classifier more computationally effic
 > [!NOTE] A Note on the Assumed Distribution
 > The [[Probability Distribution|probability distribution]] we assume depends on the task and the data we have - it doesn't have to be normally distributed!
 
-Assuming that each feature of $X$ is drawn from a [[Normal Distribution|normal distribution]], and that each feature $x_{i}$ is statistically independent, given each class $C_{k}$, we can express the formula for the [[Posterior Probability|posterior probability]] vector $P(Y=C_{k}|X)$ as:
+Assuming that each feature of $X$ is drawn from a [[Normal Distribution|normal distribution]], and that each feature $x_{i}$ is statistically independent, given each class $C_{k}$, we can express the formula for the [[Bayes' Rule|posterior probability]] vector $P(Y=C_{k}|X)$ as:
 
 $$
 P(Y=C_{k}|X)=\frac{P(X|Y=C_{k})P(Y=C_{k})}{P(X)}

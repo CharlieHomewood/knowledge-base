@@ -5,7 +5,7 @@ tags:
 ---
 A Bayes classifier is a type of [[Supervised Learning|supervised]] [[Machine Learning|machine learning]] [[Algorithms|algorithm]] used for [[Classification Algorithms|classification]] tasks. 
 
-The technique involves calculating, for each feature vector (i.e. row) in a data set, the class label with the largest [[Posterior Probability|posterior probability]] and assigning that label to that row.
+The technique involves calculating, for each feature vector (i.e. row) in a data set, the class label with the largest [[Bayes' Rule|posterior probability]] and assigning that label to that row.
 
 ## Formula
 
