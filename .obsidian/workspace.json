@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "1da8eadda6b639df",
+        "id": "53eaa3c52844edec",
         "type": "tabs",
         "children": [
           {
-            "id": "808181b729782a83",
+            "id": "ce4f254b25b9d1ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Erdős–Rényi Model.md",
+                "file": "content/Modularity Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erdős–Rényi Model"
+              "title": "Modularity Index"
+            }
+          },
+          {
+            "id": "453c2b2fb80aa1ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Louvain Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Louvain Algorithm"
+            }
+          },
+          {
+            "id": "ad1472e2a842a21f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Clauset-Newman-Moore Greedy Modularity Maximisation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clauset-Newman-Moore Greedy Modularity Maximisation"
             }
           }
         ]
@@ -78,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5069465637207
+    "width": 259.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "8b5b4c6433eb4166",
@@ -184,11 +213,27 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "808181b729782a83",
+  "active": "ce4f254b25b9d1ed",
   "lastOpenFiles": [
+    "content/Louvain Algorithm.md",
+    "content/Clauset-Newman-Moore Greedy Modularity Maximisation.md",
+    "content/Modularity Index.md",
+    "content/Assortativity.md",
+    "content/Strong Communities (Graphs).md",
+    "content/Component (Graphs).md",
+    "content/Degree (Graphs).md",
+    "content/Path (Graphs).md",
+    "content/Edge.md",
+    "content/Modularity (Graphs).md",
+    "content/Kronecker Delta.md",
+    "content/Module (Graphs).md",
+    "content/Weak Communities (Graphs).md",
+    "content/Connectedness (Graphs).md",
+    "content/Erdős–Rényi Model.md",
+    "content/Graph.md",
+    "content/Closeness (Graphs).md",
+    "content/Clustering Coefficient.md",
     "templates/note.md",
-    "content/Erdős–Rényi Model.md",
-    "content/Erdős–Rényi Model.md",
     "content/Recall.md",
     "content/Confusion Matrix.md",
     "content/Precision.md",
@@ -196,22 +241,7 @@
     "content/Synthetic Minority Over-Sampling Technique (SMOTE).md",
     "content/Oversampling.md",
     "content/Hubs.md",
-    "content/Gilbert Random Graph Model.md",
-    "content/Exponential Random Graph Model (ERGM).md",
-    "content/Class Imbalance.md",
-    "content/Bias of an Estimator.md",
-    "content/ROC Curve.md",
-    "content/K-Fold Cross Validation.md",
     "content/assets/image-3.png",
-    "content/False Positive Rate.md",
-    "content/F1 Score.md",
-    "content/Accuracy.md",
-    "content/Naïve Bayes Classifier.md",
-    "content/Bag-of-Words.md",
-    "content/Bayes Classifier.md",
-    "content/False Positives.md",
-    "content/Type 2 Error.md",
-    "content/Type 1 Error.md",
     "package-lock.json",
     "node_modules/request/node_modules/mime-types/package.json",
     "node_modules/request/node_modules/mime-types/LICENSE",

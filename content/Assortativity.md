@@ -3,7 +3,9 @@ title: Assortativity
 draft: false
 tags:
 ---
-Assortativity refers to the tendency for [[Vertex|vertices]] in a [[Graph|graph]] to connect to other similar vertices.
+Assortativity refers to the tendency in a [[Graph|graph]] for [[Vertex|vertices]] to connect to other similar vertices.
+
+A group of vertices which have a higher probability of being [[Connectedness (Graphs)|connected]] together, over other vertices in the network, is known as a [[Module (Graphs)|module]].
 
 ## Mechanisms
 
