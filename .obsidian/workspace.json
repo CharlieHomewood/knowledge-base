@@ -35,7 +35,8 @@
               "title": "Gilbert Random Graph Model"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/WordPiece Algorithm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of WordPiece Algorithm"
             }
           }
         ],
