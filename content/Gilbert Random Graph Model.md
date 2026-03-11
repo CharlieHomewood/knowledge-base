@@ -5,7 +5,9 @@ tags:
 ---
 A Gilbert random [[Graph|graph]] model is a type of random graph which involves randomly adding [[Edge|edges]] between some set of [[Vertex|vertices]].
 
-## Algorithm 
+## [[Algorithms|Algorithm]]
+
+The following algorithm can be used to generate a Gilbert random graph.
 
 1. Start with N vertices and $0$ edges
 2. Choose some threshold $p$

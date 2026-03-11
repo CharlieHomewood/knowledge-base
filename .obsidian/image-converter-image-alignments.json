@@ -14,5 +14,37 @@
       "height": "288px",
       "wrap": false
     }
+  },
+  "content/Box Plot.md": {
+    "1af4696da6c4ec31138f7951dfa0d02d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/Cardinality.md": {
+    "d78131429bbf52ad3a68c05cc4b4beb2": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/Discrete-Time Markov Chains.md": {
+    "54556d1853fc8e810f03b075d0b0d4a2": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/Distributional Smoothing.md": {
+    "daab02a063f801e7349976b7b5c813f2": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
   }
 }
