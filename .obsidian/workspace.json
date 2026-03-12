@@ -4,35 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "e27d0bddec00bb0e",
+        "id": "4ef131d9989583c2",
         "type": "tabs",
         "children": [
           {
-            "id": "631f59f6ec3394bc",
+            "id": "f70ab1e29dea70f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Erdős–Rényi Model.md",
+                "file": "content/Linear Threshold Model (LTM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erdős–Rényi Model"
+              "title": "Linear Threshold Model (LTM)"
             }
           },
           {
-            "id": "38f9e4cfdc99c2d8",
+            "id": "35f66a0a2519f15b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Gilbert Random Graph Model.md",
+                "file": "content/Fractional Threshold Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gilbert Random Graph Model"
+              "title": "Fractional Threshold Model"
+            }
+          },
+          {
+            "id": "59cc22d14c499221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Independent Cascade Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Independent Cascade Models"
             }
           }
         ],
@@ -93,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5069465637207
+    "width": 259.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "8b5b4c6433eb4166",
@@ -170,13 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/WordPiece Algorithm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WordPiece Algorithm"
+              "title": "Outline"
             }
           }
         ],
@@ -200,34 +214,34 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "631f59f6ec3394bc",
+  "active": "59cc22d14c499221",
   "lastOpenFiles": [
-    "content/Gilbert Random Graph Model.md",
-    "content/Erdős–Rényi Model.md",
-    "content/Graph.md",
-    "content/Eigenvector.md",
-    "content/Eigendecomposition.md",
-    "content/Eigenvalue.md",
-    "content/Edge.md",
-    "content/Dot Product.md",
-    "content/Document-Term Matrix.md",
-    "content/Distributional Semantics.md",
-    "content/Distributional Smoothing.md",
-    "content/Discrete-Time Markov Chains.md",
-    "content/Diagonal Matrix.md",
-    "content/Determinant.md",
-    "content/Design Matrix.md",
-    "content/Density (Graphs).md",
-    "content/Derivative (Calculus).md",
-    "content/Degree Heterogeneity.md",
-    "content/Degree Distribution.md",
+    "content/Fractional Threshold Model.md",
+    "content/Linear Threshold Model (LTM).md",
+    "content/Independent Cascade Models.md",
+    "content/Bilingual Evaluation Understudy (BLEU).md",
+    "content/Neural Machine Translation (NMT).md",
+    "content/Seq2seq.md",
+    "content/SentencePiece Algorithm.md",
+    "content/WordPiece Algorithm.md",
+    "content/BytePiece Encoding (BPE).md",
+    "content/Character n-gram F-Score (chrF).md",
+    "content/Long Short Term Memory (LSTM).md",
+    "content/Expectation-Maximisation.md",
+    "content/Maximum A Posteriori Estimation.md",
+    "content/N-gram.md",
+    "content/Linguistic Typology.md",
+    "content/Clauset-Newman-Moore Greedy Modularity Maximisation.md",
+    "content/Louvain Algorithm.md",
+    "content/Modularity Index.md",
+    "content/Assortativity.md",
+    "content/Strong Communities (Graphs).md",
+    "content/Component (Graphs).md",
     "content/Degree (Graphs).md",
-    "content/Decision Tree.md",
-    "content/Data Types.md",
-    "content/D-k Randomisation.md",
-    "content/Cumulative Distribution Function.md",
-    "content/Cross-Entropy.md",
-    "content/Cramér–Rao Bound.md",
+    "content/Path (Graphs).md",
+    "content/Edge.md",
+    "content/Modularity (Graphs).md",
+    "content/Kronecker Delta.md",
     "content/assets/image-3.png",
     "package-lock.json",
     "node_modules/request/node_modules/mime-types/package.json",
