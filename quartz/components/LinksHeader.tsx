@@ -10,7 +10,7 @@ export default (() => {
     return (
       <div id="links-header-container">
         <div id="links-header">        
-            <a class="links-header-item" href="https://charliehomewood.github.io/website/"><b>&#x21A9; Return to Website</b></a>
+            <a class="links-header-item" href="https://charliehomewood.github.io/website/" onClick={() => window.location.href = "https://charliehomewood.github.io/website/"}><b>&#x21A9; Return to Website</b></a>
         </div>
         <hr></hr>
       </div>
