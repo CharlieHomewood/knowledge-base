@@ -10,7 +10,7 @@ export default (() => {
     return (
       <div id="links-header-container">
         <div id="links-header">        
-            <a class="links-header-item" href="https://charliehomewood.github.io/website/" target="_self" rel="external"><b>&#x21A9; Return to Website</b></a>
+            <a class="links-header-item" href="https://charliehomewood.github.io/website/" target="_self" rel="external" data-original-href="https://charliehomewood.github.io/website/"><b>&#x21A9; Return to Website</b></a>
         </div>
         <hr></hr>
       </div>
