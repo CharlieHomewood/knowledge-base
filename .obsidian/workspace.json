@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b7b6b68e7d4ed809",
+        "id": "eda4e28ecdc85271",
         "type": "tabs",
         "children": [
           {
-            "id": "b2f2a0b4c8830656",
+            "id": "fac170bbe6b8575b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Bayes Classifier.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bayes Classifier"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5069465637207,
-    "collapsed": true
+    "width": 259.5069465637207
   },
   "right": {
     "id": "8b5b4c6433eb4166",
@@ -181,18 +184,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b2f2a0b4c8830656",
+  "active": "fac170bbe6b8575b",
   "lastOpenFiles": [
+    "content/Batch Normalisation.md",
+    "content/Bayes' Rule.md",
+    "content/Encoder-Decoder Model.md",
     "content/Layer Normalisation (LayerNorm).md",
+    "content/Transformer.md",
     "content/Complexity.md",
     "content/Complex Adaptive Systems.md",
     "content/Complex System.md",
     "content/Attention.md",
-    "content/Encoder-Decoder Model.md",
-    "content/Transformer.md",
     "content/Seq2seq.md",
     "content/Activation Normalisation.md",
-    "content/Batch Normalisation.md",
     "content/ELMo.md",
     "content/Convolution.md",
     "content/Watts-Strogatz Model.md",
@@ -208,7 +212,6 @@
     "content/BytePiece Encoding (BPE).md",
     "content/Character n-gram F-Score (chrF).md",
     "content/Long Short Term Memory (LSTM).md",
-    "content/Expectation-Maximisation.md",
     "content/assets/image-3.png",
     "package-lock.json",
     "node_modules/request/node_modules/mime-types/package.json",
