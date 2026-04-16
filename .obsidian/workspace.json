@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b7b6b68e7d4ed809",
+        "id": "b4fc32549587579f",
         "type": "tabs",
         "children": [
           {
-            "id": "b2f2a0b4c8830656",
+            "id": "1762dc51f9a7fc78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Modularity (Graphs).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Modularity (Graphs)"
             }
           }
         ]
@@ -181,8 +185,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b2f2a0b4c8830656",
+  "active": "1762dc51f9a7fc78",
   "lastOpenFiles": [
+    "content/Modularity Index.md",
+    "content/Modularity (Graphs).md",
     "content/Layer Normalisation (LayerNorm).md",
     "content/Complexity.md",
     "content/Complex Adaptive Systems.md",
@@ -207,8 +213,6 @@
     "content/WordPiece Algorithm.md",
     "content/BytePiece Encoding (BPE).md",
     "content/Character n-gram F-Score (chrF).md",
-    "content/Long Short Term Memory (LSTM).md",
-    "content/Expectation-Maximisation.md",
     "content/assets/image-3.png",
     "package-lock.json",
     "node_modules/request/node_modules/mime-types/package.json",
