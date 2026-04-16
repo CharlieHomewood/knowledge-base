@@ -8,10 +8,18 @@
     }
   },
   "content/ROC Curve.md": {
-    "b99c72ae0edb1cefd86206f4dd2584e6": {
+    "1a6d1decc0dc206d5394d374f6b8a7e6": {
       "position": "center",
-      "width": "291px",
-      "height": "288px",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/Logistic Regression.md": {
+    "6bed613cfc0d5e13b5b719f3aa370d31": {
+      "position": "center",
+      "width": "",
+      "height": "",
       "wrap": false
     }
   }
