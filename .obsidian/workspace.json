@@ -21,7 +21,8 @@
               "title": "Modularity (Graphs)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5069465637207,
-    "collapsed": true
+    "width": 259.5069465637207
   },
   "right": {
     "id": "8b5b4c6433eb4166",
@@ -214,6 +214,22 @@
     "content/BytePiece Encoding (BPE).md",
     "content/Character n-gram F-Score (chrF).md",
     "content/assets/image-3.png",
+    "content/assets/image-1 1.png",
+    "content/assets/image-2.png",
+    "content/Stationary Distribution.md",
+    "content/Standardised Moments.md",
+    "content/Standard Normal Distribution.md",
+    "content/Standard Deviation.md",
+    "content/Square Matrix.md",
+    "content/Spearman's Rank Correlation Coefficient.md",
+    "content/Small-World Network.md",
+    "content/Softmax Function.md",
+    "content/Singular Value Decomposition.md",
+    "content/Skewness.md",
+    "content/Shannon-Visualisation Method.md",
+    "content/Sign Function.md",
+    "content/assets",
+    "content",
     "package-lock.json",
     "node_modules/request/node_modules/mime-types/package.json",
     "node_modules/request/node_modules/mime-types/LICENSE",
@@ -222,15 +238,7 @@
     "node_modules/request/node_modules/mime-db/LICENSE",
     "node_modules/request/node_modules/mime-db/index.js",
     "node_modules/request/node_modules/mime-db/db.json",
-    "node_modules/request/node_modules/mime-types",
-    "node_modules/request/lib/tunnel.js",
     "node_modules/psl/browserstack-logo.svg",
-    "content/assets/nn.png",
-    "content/assets/image.png",
-    "content/assets/markovchain.png",
-    "content/assets/image-2.png",
-    "content/assets/image-1.png",
-    "content/assets/image-1 1.png",
     "public/Ad-Hoc-Hypothesis-og-image.webp",
     "public/Falsifiability-og-image.webp"
   ]
