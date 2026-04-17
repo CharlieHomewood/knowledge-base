@@ -19,7 +19,7 @@ Where:
 
  - $w^{(L)}$ are the weights of all the neurons in layer $L$
  - $a^{(L)}$ are the values of the activations of each neuron in layer $L$
- - $z^{(L)}$ are the outputs of the linear model inputting into layer $L$
+ - $z^{(L)}$ are the outputs of the linear models in the neurons in layer $L$
 
 We can also consider the gradient of the loss function with respect to the $i^{\text{th}}$ weight in the $j^{\text{th}}$ layer:
 

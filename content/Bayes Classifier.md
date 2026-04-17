@@ -16,7 +16,7 @@ P(Y=C_{k}|X)=\frac{P(X|Y=C_{k})P(Y=C_{k})}{P(X)}
 $$
 
 > [!INFO] A note on the denominator $P(X)$
-> If the goal is simply to classify, we can ignore $P(X)$ as it is common to all classes $C_{k}$ and thus the relative . However, should the probability values of each class be required, it is necessary to normalise by $P(X)$.
+> If the goal is simply to classify, we can ignore $P(X)$ as it is common to all classes $C_{k}$. However, should the probability values of each class be required, it is necessary to normalise by $P(X)$.
 
 Assuming that we do not require $P(X)$ and are simply interested in classification, we can proceed without using the denominator in our formula. 
 
