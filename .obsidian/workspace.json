@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Backpropagation.md",
+                "file": "content/Bounded Confidence Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backpropagation"
+              "title": "Bounded Confidence Model"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "0ac0e592ba9de71d",
   "lastOpenFiles": [
+    "content/Backpropagation.md",
     "content/Sum of Squared Differences.md",
     "content/Stupid Backoff.md",
     "content/assets/nn.png",
@@ -218,7 +219,6 @@
     "content/Rank Correlation.md",
     "content/Range.md",
     "content/Random Variable.md",
-    "content/Random Forest.md",
     "content/assets",
     "content",
     "package-lock.json",
