@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "113e595728f241dc",
+        "id": "a5b1e3079150f4e8",
         "type": "tabs",
         "children": [
           {
-            "id": "0ac0e592ba9de71d",
+            "id": "5f45908e9fc0627e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Backpropagation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Backpropagation"
+              "title": "New tab"
             }
           }
         ]
@@ -184,8 +180,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0ac0e592ba9de71d",
+  "active": "5f45908e9fc0627e",
   "lastOpenFiles": [
+    "content/Gini Impurity.md",
+    "content/GloVE.md",
+    "content/Random Forest.md",
+    "content/Backpropagation.md",
     "content/Sum of Squared Differences.md",
     "content/Stupid Backoff.md",
     "content/assets/nn.png",
@@ -215,10 +215,6 @@
     "content/Recall.md",
     "content/Real Numbers.md",
     "content/Rational Numbers.md",
-    "content/Rank Correlation.md",
-    "content/Range.md",
-    "content/Random Variable.md",
-    "content/Random Forest.md",
     "content/assets",
     "content",
     "package-lock.json",
