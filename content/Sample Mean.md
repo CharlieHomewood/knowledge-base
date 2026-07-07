@@ -1,6 +1,6 @@
 ---
 title: Sample Mean
-draft: false
+draft: true
 tags:
 ---
 

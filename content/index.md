@@ -24,6 +24,7 @@ Below is a list of freely-available resources I have made use of in my learning 
 #### Coding
 
  - [Corey Schafer](https://www.youtube.com/feed/subscriptions/UCCezIgC97PvUuR4_gbFUs5g)
+ - [softwarewithnick](https://www.youtube.com/@softwarewithnick/shorts)
  - [Tech With Tim](https://www.youtube.com/@TechWithTim)
 
 #### Computer Science
@@ -35,8 +36,11 @@ Below is a list of freely-available resources I have made use of in my learning 
 
  - [3Blue1Brown](https://www.youtube.com/feed/subscriptions/UCYO_jab_esuFRV4b17AJtAw)
  - [blackpenredpen](https://www.youtube.com/feed/subscriptions/UC_SvYP0k05UKiJ_2ndB02IA)
+ - [Dr Barker](https://www.youtube.com/@DrBarker)
  - [Numberphile](https://www.youtube.com/feed/subscriptions/UCoxcjq-8xIDTYp3uz647V5A)
 
-#### Probability 
+#### Probability & Statistics
 
+ - [Drawing Distributions](https://www.youtube.com/@DrawingDistributions)
+ - [Simplistics (QuantPsych)](https://www.youtube.com/@simplistics_stats)
  - [Primer](https://www.youtube.com/@PrimerBlobs/videos)

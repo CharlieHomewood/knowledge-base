@@ -1,6 +1,6 @@
 ---
 title: Random Variable
-draft: false
+draft: true
 tags:
 ---
 

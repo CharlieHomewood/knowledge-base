@@ -1,6 +1,6 @@
 ---
 title: Statistical Sample
-draft: false
+draft: true
 tags:
 ---
 

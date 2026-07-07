@@ -1,6 +1,6 @@
 ---
 title: Statistical Parameters
-draft: false
+draft: true
 tags:
 ---
 

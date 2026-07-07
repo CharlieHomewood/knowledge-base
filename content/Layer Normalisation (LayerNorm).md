@@ -3,7 +3,7 @@ title: Layer Normalisation (LayerNorm)
 draft: false
 tags:
 ---
-Layer normalisation (LayerNorm) is a method for [[Activation Normalisation|activation normalisation]] which normalises the input of each data sample individually, rather than in batches as with [[Batch Normalisation|batch normalisation]].
+Layer normalisation (LayerNorm) is a method for [[Activation Normalisation|activation normalisation]] which normalises the input of each data sample individually, rather than in batches as with [[Batch Normalisation (BatchNorm)|batch normalisation]].
 
 LayerNorm is used as a component in [[Transformer|transformer]] architectures to improve numerical stability.
 

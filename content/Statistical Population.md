@@ -1,6 +1,6 @@
 ---
 title: Statistical Population
-draft: false
+draft: true
 tags:
 ---
 

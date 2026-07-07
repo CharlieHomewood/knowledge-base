@@ -1,6 +1,6 @@
 ---
 title: The Configuration Model
-draft: false
+draft: true
 tags:
 ---
 

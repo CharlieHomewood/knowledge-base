@@ -2,8 +2,14 @@
     <loc>https://quartz.jzhao.xyz/Absolute-Discounting</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Accuracy</loc>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Activation-Function</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Activation-Normalisation</loc>
+    <lastmod>2026-03-19T14:04:46.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Ad-Hoc-Hypothesis</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -27,19 +33,28 @@
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Assortativity</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-05T12:51:24.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Attention</loc>
+    <lastmod>2026-03-19T14:04:46.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Average-Pooling</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Backpropagation</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-04-17T00:31:58.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Bag-of-Words</loc>
+    <lastmod>2026-03-02T13:49:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Batch-Normalisation</loc>
+    <lastmod>2026-03-19T14:04:46.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Bayes-Classifier</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-04-17T00:31:58.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Bayes'-Rule</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Bernoulli-Distribution</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -47,8 +62,14 @@
     <loc>https://quartz.jzhao.xyz/Betweenness-(Graphs)</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Bias-of-an-Estimator</loc>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Bijection</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Bilingual-Evaluation-Understudy-(BLEU)</loc>
+    <lastmod>2026-03-09T17:35:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Binomial-Distribution</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -56,8 +77,14 @@
     <loc>https://quartz.jzhao.xyz/Boolean-Data</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Bounded-Confidence-Model</loc>
+    <lastmod>2026-04-17T00:31:58.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Box-Plot</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/BytePiece-Encoding-(BPE)</loc>
+    <lastmod>2026-03-09T17:35:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Cardinality</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -71,8 +98,17 @@
     <loc>https://quartz.jzhao.xyz/Chain-Rule</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Character-n-gram-F-Score-(chrF)</loc>
+    <lastmod>2026-03-09T17:35:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Class-Imbalance</loc>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Classification-Algorithms</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Clauset-Newman-Moore-Greedy-Modularity-Maximisation</loc>
+    <lastmod>2026-03-05T12:51:24.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Closeness-(Graphs)</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -83,8 +119,17 @@
     <loc>https://quartz.jzhao.xyz/Complement</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Complex-Adaptive-Systems</loc>
+    <lastmod>2026-03-19T14:04:46.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Complex-Numbers</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Complex-System</loc>
+    <lastmod>2026-03-19T14:04:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Complexity</loc>
+    <lastmod>2026-03-19T14:04:46.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Component-(Graphs)</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -94,6 +139,9 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Conditional-Probability</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Confusion-Matrix</loc>
+    <lastmod>2026-03-02T13:49:46.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Connectedness-(Graphs)</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -129,7 +177,7 @@
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Cram%C3%A9r%E2%80%93Rao-Bound</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Cross-Entropy</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -138,7 +186,7 @@
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/D-k-Randomisation</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Data-Types</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -185,6 +233,9 @@
     <loc>https://quartz.jzhao.xyz/Dot-Product</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/ELMo</loc>
+    <lastmod>2026-03-19T14:04:46.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Edge</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
@@ -197,6 +248,12 @@
     <loc>https://quartz.jzhao.xyz/Eigenvector</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Encoder-Decoder-Model</loc>
+    <lastmod>2026-04-17T00:31:58.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Erd%C5%91s%E2%80%93R%C3%A9nyi-Model</loc>
+    <lastmod>2026-03-11T23:06:26.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Error-Function</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
@@ -206,20 +263,26 @@
     <loc>https://quartz.jzhao.xyz/Expectation-Value</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Expectation-Maximisation</loc>
+    <lastmod>2026-03-09T17:35:36.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Exponential-Distribution</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Exponential-Random-Graphs</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Exponential-Random-Graph-Model-(ERGM)</loc>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/F1-Score</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-02T20:48:17.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/False-Negatives</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-02T13:49:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/False-Positive-Rate</loc>
+    <lastmod>2026-03-02T20:48:17.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/False-Positives</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Falsifiability</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -233,6 +296,9 @@
     <loc>https://quartz.jzhao.xyz/Fisher-Information</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Fractional-Threshold-Model</loc>
+    <lastmod>2026-03-12T12:48:01.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Gamma-Function</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
@@ -245,8 +311,8 @@
     <loc>https://quartz.jzhao.xyz/Geometric-Mean</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Gilbert-Random-Graph</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Gilbert-Random-Graph-Model</loc>
+    <lastmod>2026-03-11T23:06:26.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Gini-Impurity</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -284,6 +350,9 @@
     <loc>https://quartz.jzhao.xyz/Homonyms</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Hubs</loc>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Hyperbolic-Cosine-(cosh)</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
@@ -313,6 +382,9 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Imaginary-Unit</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Independent-Cascade-Models</loc>
+    <lastmod>2026-03-12T12:48:01.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Infimum</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -350,11 +422,17 @@
     <loc>https://quartz.jzhao.xyz/Joint-Distribution</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/K-Fold-Cross-Validation</loc>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/K-Nearest-Neighbours-(KNN)</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Kendall-Rank-Correlation-Coefficient</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Kronecker-Delta</loc>
+    <lastmod>2026-03-05T12:51:24.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Kurtosis</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -377,6 +455,9 @@
     <loc>https://quartz.jzhao.xyz/Latent-Semantic-Analysis-(LSA)</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Layer-Normalisation-(LayerNorm)</loc>
+    <lastmod>2026-03-19T14:04:46.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Learning-Rate</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
@@ -391,6 +472,9 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Linear-Regression</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Linear-Threshold-Model-(LTM)</loc>
+    <lastmod>2026-03-12T12:48:01.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Linearity-Rule</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -407,8 +491,14 @@
     <loc>https://quartz.jzhao.xyz/Logistic-Unit-(Logit)</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Long-Short-Term-Memory-(LSTM)</loc>
+    <lastmod>2026-03-09T17:35:36.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Loss-Function</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Louvain-Algorithm</loc>
+    <lastmod>2026-03-05T12:51:24.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Machine-Learning</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -431,6 +521,9 @@
     <loc>https://quartz.jzhao.xyz/Max-Pooling</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Maximum-A-Posteriori-Estimation</loc>
+    <lastmod>2026-03-09T17:35:36.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Maximum-Likelihood-Estimation</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
@@ -444,7 +537,7 @@
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Median</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Meronymy</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -454,6 +547,15 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Model-Parameters</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Modularity-(Graphs)</loc>
+    <lastmod>2026-03-05T12:51:24.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Modularity-Index</loc>
+    <lastmod>2026-03-05T12:51:24.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Module-(Graphs)</loc>
+    <lastmod>2026-03-05T12:51:24.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Multiple-Imputation</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -477,7 +579,10 @@
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Na%C3%AFve-Bayes-Classifier</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Neural-Machine-Translation-(NMT)</loc>
+    <lastmod>2026-03-09T17:35:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Neural-Network</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -508,6 +613,9 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Overfitting</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Oversampling</loc>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/PPDAC</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -549,10 +657,7 @@
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Population-Mean</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Posterior-Probability</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Power-Rule</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -561,25 +666,28 @@
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Precision</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-02T20:48:17.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Principal-Component-Analysis-(PCA)</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Prior-Probability</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Probability-Density-Function</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Probability-Distribution</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Probability-Mass-Function</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Quartile</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/ROC-Curve</loc>
+    <lastmod>2026-03-02T20:48:17.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Random-Forest</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -600,7 +708,7 @@
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Recall</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-02T20:48:17.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Rectified-Linear-Unit-(ReLU)</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -631,6 +739,12 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Scalar</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/SentencePiece-Algorithm</loc>
+    <lastmod>2026-03-09T17:35:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seq2seq</loc>
+    <lastmod>2026-03-09T17:35:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Set-Difference</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -704,6 +818,9 @@
     <loc>https://quartz.jzhao.xyz/Strings</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Strong-Communities-(Graphs)</loc>
+    <lastmod>2026-03-05T12:51:24.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Stupid-Backoff</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
@@ -725,6 +842,9 @@
     <loc>https://quartz.jzhao.xyz/Synonymy</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Synthetic-Minority-Over-Sampling-Technique-(SMOTE)</loc>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Taylor-Series</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
@@ -740,6 +860,9 @@
     <loc>https://quartz.jzhao.xyz/Time-Complexity</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Transformer</loc>
+    <lastmod>2026-03-19T14:04:46.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Transition-Matrix</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
@@ -753,13 +876,22 @@
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/True-Negatives</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-02T13:49:46.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/True-Positives</loc>
-    <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+    <lastmod>2026-03-02T13:49:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Type-1-Error</loc>
+    <lastmod>2026-03-02T13:49:46.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Type-2-Error</loc>
+    <lastmod>2026-03-02T13:49:46.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Uncountable-Set</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Undersampling</loc>
+    <lastmod>2026-03-04T15:56:19.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Union</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
@@ -788,6 +920,9 @@
     <loc>https://quartz.jzhao.xyz/Watts-Strogatz-Model</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Weak-Communities-(Graphs)</loc>
+    <lastmod>2026-03-05T12:51:24.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Word-Embeddings</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
   </url><url>
@@ -799,6 +934,9 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/WordNet</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/WordPiece-Algorithm</loc>
+    <lastmod>2026-03-09T17:35:36.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Z-scores</loc>
     <lastmod>2026-02-26T14:56:36.000Z</lastmod>

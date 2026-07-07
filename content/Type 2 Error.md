@@ -1,6 +1,6 @@
 ---
 title: Type 2 Error
-draft: false
+draft: true
 tags:
 ---
 

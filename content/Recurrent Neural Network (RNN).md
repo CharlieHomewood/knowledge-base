@@ -1,6 +1,6 @@
 ---
 title: Recurrent Neural Network (RNN)
-draft: false
+draft: true
 tags:
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Synthetic Minority Over-Sampling Technique (SMOTE)
-draft: false
+draft: true
 tags:
 ---
 

@@ -6,65 +6,65 @@
       <description>Last 10 notes on Knowledge Base</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Absolute Discounting</title>
-    <link>https://quartz.jzhao.xyz/Absolute-Discounting</link>
-    <guid>https://quartz.jzhao.xyz/Absolute-Discounting</guid>
-    <description><![CDATA[ Absolute discounting is a smoothing technique for n-gram models. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+    <title>Backpropagation</title>
+    <link>https://quartz.jzhao.xyz/Backpropagation</link>
+    <guid>https://quartz.jzhao.xyz/Backpropagation</guid>
+    <description><![CDATA[ Backpropagation is a method used in neutral networks to update the weights (i.e. ]]></description>
+    <pubDate>Fri, 17 Apr 2026 00:31:58 GMT</pubDate>
   </item><item>
-    <title>Activation Function</title>
-    <link>https://quartz.jzhao.xyz/Activation-Function</link>
-    <guid>https://quartz.jzhao.xyz/Activation-Function</guid>
-    <description><![CDATA[ An activation function is a tool used in neural networks to introduce non-linearity to the outputs of artificial neurons in the network. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+    <title>Bayes Classifier</title>
+    <link>https://quartz.jzhao.xyz/Bayes-Classifier</link>
+    <guid>https://quartz.jzhao.xyz/Bayes-Classifier</guid>
+    <description><![CDATA[ A Bayes classifier is a type of supervised machine learning algorithm used for classification tasks. ]]></description>
+    <pubDate>Fri, 17 Apr 2026 00:31:58 GMT</pubDate>
   </item><item>
-    <title>Ad Hoc Hypothesis</title>
-    <link>https://quartz.jzhao.xyz/Ad-Hoc-Hypothesis</link>
-    <guid>https://quartz.jzhao.xyz/Ad-Hoc-Hypothesis</guid>
-    <description><![CDATA[ An ad hoc hypothesis is an additional explanatory factor which is added to a theory to protect that theory from potentially falsifying evidence. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+    <title>Bounded Confidence Model</title>
+    <link>https://quartz.jzhao.xyz/Bounded-Confidence-Model</link>
+    <guid>https://quartz.jzhao.xyz/Bounded-Confidence-Model</guid>
+    <description><![CDATA[ A bounded confidence model is a type of dynamical graph model which models opinion dynamics within a network. ]]></description>
+    <pubDate>Fri, 17 Apr 2026 00:31:58 GMT</pubDate>
   </item><item>
-    <title>Adaptive Algorithms</title>
-    <link>https://quartz.jzhao.xyz/Adaptive-Algorithms</link>
-    <guid>https://quartz.jzhao.xyz/Adaptive-Algorithms</guid>
-    <description><![CDATA[ An adaptive algorithm is an algorithm whose behaviour is dynamically altered during the course of its run time based on new information provided after each iteration. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+    <title>Encoder-Decoder Model</title>
+    <link>https://quartz.jzhao.xyz/Encoder-Decoder-Model</link>
+    <guid>https://quartz.jzhao.xyz/Encoder-Decoder-Model</guid>
+    <description><![CDATA[ An encoder-decoder model is a type of neural network architecture used to encode sequential data (such as an English sentence) into a vector space, and decode the vector space into another data sequence (i.e. ]]></description>
+    <pubDate>Fri, 17 Apr 2026 00:31:58 GMT</pubDate>
   </item><item>
-    <title>Adjacency Matrix</title>
-    <link>https://quartz.jzhao.xyz/Adjacency-Matrix</link>
-    <guid>https://quartz.jzhao.xyz/Adjacency-Matrix</guid>
-    <description><![CDATA[ An adjacency matrix is a square matrix which is used to represent the all possible connections in a given graph. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+    <title>Activation Normalisation</title>
+    <link>https://quartz.jzhao.xyz/Activation-Normalisation</link>
+    <guid>https://quartz.jzhao.xyz/Activation-Normalisation</guid>
+    <description><![CDATA[  References . ]]></description>
+    <pubDate>Thu, 19 Mar 2026 14:04:46 GMT</pubDate>
   </item><item>
-    <title>Algorithms</title>
-    <link>https://quartz.jzhao.xyz/Algorithms</link>
-    <guid>https://quartz.jzhao.xyz/Algorithms</guid>
-    <description><![CDATA[ An algorithm is a procedure consisting of well-defined steps, taking some set of inputs to produce some set of outputs. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+    <title>Attention</title>
+    <link>https://quartz.jzhao.xyz/Attention</link>
+    <guid>https://quartz.jzhao.xyz/Attention</guid>
+    <description><![CDATA[  References . ]]></description>
+    <pubDate>Thu, 19 Mar 2026 14:04:46 GMT</pubDate>
   </item><item>
-    <title>Antonymy</title>
-    <link>https://quartz.jzhao.xyz/Antonymy</link>
-    <guid>https://quartz.jzhao.xyz/Antonymy</guid>
-    <description><![CDATA[ Antonymy describes a relationship between words which have opposite meanings. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+    <title>Batch Normalisation</title>
+    <link>https://quartz.jzhao.xyz/Batch-Normalisation</link>
+    <guid>https://quartz.jzhao.xyz/Batch-Normalisation</guid>
+    <description><![CDATA[  References . ]]></description>
+    <pubDate>Thu, 19 Mar 2026 14:04:46 GMT</pubDate>
   </item><item>
-    <title>Arithmetic Mean</title>
-    <link>https://quartz.jzhao.xyz/Arithmetic-Mean</link>
-    <guid>https://quartz.jzhao.xyz/Arithmetic-Mean</guid>
-    <description><![CDATA[ The arithmetic mean is a measure of central tendency, defined as the sum of a set of values, divided by the number of values in the set. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+    <title>Complex Adaptive Systems</title>
+    <link>https://quartz.jzhao.xyz/Complex-Adaptive-Systems</link>
+    <guid>https://quartz.jzhao.xyz/Complex-Adaptive-Systems</guid>
+    <description><![CDATA[ A complex adaptive system is a type of complex system where the behaviour of components or the interdependence between components may change in response to the state of the system. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 14:04:46 GMT</pubDate>
   </item><item>
-    <title>Artificial Neuron</title>
-    <link>https://quartz.jzhao.xyz/Artificial-Neuron</link>
-    <guid>https://quartz.jzhao.xyz/Artificial-Neuron</guid>
-    <description><![CDATA[ An artificial neuron is a component of a neural network which comprises of a mathematical function, taking inputs from, and producing outputs for, other artificial neurons in the network. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+    <title>Complex System</title>
+    <link>https://quartz.jzhao.xyz/Complex-System</link>
+    <guid>https://quartz.jzhao.xyz/Complex-System</guid>
+    <description><![CDATA[ A complex system is a system consisting of multiple, interdependent components. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 14:04:46 GMT</pubDate>
   </item><item>
-    <title>Assortativity</title>
-    <link>https://quartz.jzhao.xyz/Assortativity</link>
-    <guid>https://quartz.jzhao.xyz/Assortativity</guid>
-    <description><![CDATA[ Assortativity refers to the tendency for vertices in a graph to connect to other similar vertices. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 14:56:36 GMT</pubDate>
+    <title>Complexity</title>
+    <link>https://quartz.jzhao.xyz/Complexity</link>
+    <guid>https://quartz.jzhao.xyz/Complexity</guid>
+    <description><![CDATA[ Complexity is a property of a system whereby components interact in multiple ways. Properties Non-linearity Randomness References . ]]></description>
+    <pubDate>Thu, 19 Mar 2026 14:04:46 GMT</pubDate>
   </item>
     </channel>
   </rss>

@@ -1,6 +1,6 @@
 ---
 title: Hyperbolic Function
-draft: false
+draft: true
 tags:
 ---
 

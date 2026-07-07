@@ -1,6 +1,5 @@
 [
   "templater-obsidian",
-  "OA-file-hider",
   "dataview",
   "dataview-serializer",
   "various-complements",
@@ -8,5 +7,7 @@
   "image-converter",
   "obsidian-graphviz",
   "mermaid-tools",
-  "code-emitter"
+  "code-emitter",
+  "hide-folders",
+  "OA-file-hider"
 ]

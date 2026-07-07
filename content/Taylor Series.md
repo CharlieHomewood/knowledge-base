@@ -1,6 +1,6 @@
 ---
 title: Taylor Series
-draft: false
+draft: true
 tags:
 ---
 

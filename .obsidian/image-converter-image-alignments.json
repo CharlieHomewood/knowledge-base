@@ -6,5 +6,113 @@
       "height": "",
       "wrap": false
     }
+  },
+  "content/Box Plot.md": {
+    "1af4696da6c4ec31138f7951dfa0d02d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/Cardinality.md": {
+    "d78131429bbf52ad3a68c05cc4b4beb2": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/Discrete-Time Markov Chains.md": {
+    "54556d1853fc8e810f03b075d0b0d4a2": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/Distributional Semantics.md": {
+    "68e3e98ca53048b353fd5f7588347b74": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/Feedforward Neural Network.md": {
+    "c79c175c0f114d0304ec3bb1a4675118": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/Fisher Information.md": {
+    "cc621390219e326ba2f296e9a59010c8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/Gradient Descent.md": {
+    "5890450f270733358741706cd1ae197f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/Graph.md": {
+    "93a267f9b40f5a97099be882e0fca9c6": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/ROC Curve.md": {
+    "1a6d1decc0dc206d5394d374f6b8a7e6": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/Robustness (Graphs).md": {
+    "a80833aeec1996b15524c7e410537d46": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/Word2Vec.md": {
+    "ced7b6ee047fc11d53260f1faa579875": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1f4228244fbc78a5f55c0dd70e9222f3": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "content/WordNet.md": {
+    "97f16bd997aa6e0a31c65e16b5bffa6d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ff8bfe494eb2623aff6a3e22e2723ca5": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
   }
 }

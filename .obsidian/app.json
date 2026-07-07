@@ -8,5 +8,6 @@
     "quartz/",
     "node_modules/"
   ],
-  "attachmentFolderPath": "content/assets"
+  "attachmentFolderPath": "content/assets",
+  "promptDelete": false
 }

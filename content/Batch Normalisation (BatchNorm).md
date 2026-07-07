@@ -1,6 +1,6 @@
 ---
 title: Batch Normalisation
-draft: false
+draft: true
 tags:
 ---
 

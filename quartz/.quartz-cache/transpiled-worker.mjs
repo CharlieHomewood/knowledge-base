@@ -13919,16 +13919,75 @@ var ConditionalRender_default = /* @__PURE__ */ __name(((config2) => {
   return ConditionalRender;
 }), "default");
 
+// quartz/components/scripts/chatbot.inline.ts
+var chatbot_inline_default = "";
+
+// quartz/components/Chatbot.tsx
+import { jsx as jsx37, jsxs as jsxs21 } from "preact/jsx-runtime";
+var Chatbot_default = /* @__PURE__ */ __name((() => {
+  function Chatbot() {
+    return /* @__PURE__ */ jsxs21("div", { class: "chatbot-container", children: [
+      /* @__PURE__ */ jsx37("button", { id: "chat-toggle", children: "\u{1F4AC}" }),
+      /* @__PURE__ */ jsxs21("div", { id: "chat-window", class: "hidden", children: [
+        /* @__PURE__ */ jsx37("div", { class: "chat-header", children: "Ask the Knowledge Base" }),
+        /* @__PURE__ */ jsx37("div", { id: "chat-messages" }),
+        /* @__PURE__ */ jsxs21("div", { class: "chat-input", children: [
+          /* @__PURE__ */ jsx37(
+            "input",
+            {
+              id: "chat-question",
+              placeholder: "Ask a question..."
+            }
+          ),
+          /* @__PURE__ */ jsx37("button", { id: "chat-send", children: "Send" })
+        ] })
+      ] })
+    ] });
+  }
+  __name(Chatbot, "Chatbot");
+  Chatbot.css = `
+.chatbot-container{
+position:fixed;
+bottom:20px;
+right:20px;
+z-index:999;
+}
+
+#chat-toggle{
+border-radius:50%;
+width:60px;
+height:60px;
+font-size:24px;
+cursor:pointer;
+}
+
+#chat-window{
+width:400px;
+height:500px;
+background:var(--light);
+border:1px solid var(--gray);
+display:flex;
+flex-direction:column;
+}
+
+.hidden{
+display:none;
+}
+`;
+  Chatbot.afterDOMLoaded = chatbot_inline_default;
+  return Chatbot;
+}), "default");
+
 // quartz/components/styles/linksHeader.scss
 var linksHeader_default = "";
 
 // quartz/components/LinksHeader.tsx
-import { jsx as jsx37, jsxs as jsxs21 } from "preact/jsx-runtime";
+import { jsx as jsx38, jsxs as jsxs22 } from "preact/jsx-runtime";
 var LinksHeader_default = /* @__PURE__ */ __name((() => {
   function LinksHeader() {
-    return /* @__PURE__ */ jsxs21("div", { id: "links-header-container", children: [
-      /* @__PURE__ */ jsx37("div", { id: "links-header", children: /* @__PURE__ */ jsx37("a", { class: "links-header-item", href: "https://charliehomewood.github.io/website/", children: /* @__PURE__ */ jsx37("b", { children: "\u21A9 Return to Website" }) }) }),
-      /* @__PURE__ */ jsx37("hr", {})
+    return /* @__PURE__ */ jsxs22("div", { id: "links-header-container", children: [
+      /* @__PURE__ */ jsx38("div", { id: "links-header", children: /* @__PURE__ */ jsx38("a", { class: "links-header-item", href: "https://charliehomewood.github.io/website/", target: "_self", rel: "external", "data-original-href": "https://charliehomewood.github.io/website/", children: /* @__PURE__ */ jsx38("b", { children: "Return to Website" }) }) }),
+      /* @__PURE__ */ jsx38("hr", {})
     ] });
   }
   __name(LinksHeader, "LinksHeader");
@@ -13995,7 +14054,11 @@ var defaultListPageLayout = {
     }),
     Explorer_default()
   ],
-  right: []
+  right: [
+    Graph_default(),
+    Backlinks_default(),
+    Chatbot_default()
+  ]
 };
 
 // quartz/plugins/emitters/contentPage.tsx
@@ -14335,7 +14398,7 @@ var FolderPage = /* @__PURE__ */ __name((userOpts) => {
 
 // quartz/plugins/emitters/contentIndex.tsx
 import { toHtml as toHtml2 } from "hast-util-to-html";
-import { jsx as jsx38 } from "preact/jsx-runtime";
+import { jsx as jsx39 } from "preact/jsx-runtime";
 var defaultOptions19 = {
   enableSiteMap: true,
   enableRSS: true,
@@ -14446,7 +14509,7 @@ var ContentIndex = /* @__PURE__ */ __name((opts) => {
       if (opts?.enableRSS) {
         return {
           additionalHead: [
-            /* @__PURE__ */ jsx38(
+            /* @__PURE__ */ jsx39(
               "link",
               {
                 rel: "alternate",

@@ -1,6 +1,6 @@
 ---
 title: Maximum A Posteriori Estimation
-draft: false
+draft: true
 tags:
 ---
 
