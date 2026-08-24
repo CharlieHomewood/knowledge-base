@@ -1,6 +1,7 @@
 {
   "hidden": true,
   "hiddenList": [
+    "empty_notes.base",
     "CODE_OF_CONDUCT.md",
     "README.md"
   ]

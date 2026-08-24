@@ -1,5 +1,5 @@
 ---
-title: Graph Neural Network (GNN)
+title: PageRank
 draft: true
 tags:
 ---

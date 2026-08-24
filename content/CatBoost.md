@@ -1,5 +1,5 @@
 ---
-title: Graph Neural Network (GNN)
+title: CatBoost
 draft: true
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: Graph Neural Network (GNN)
+title: Holm-Bonferroni Correction
 draft: true
 tags:
 ---

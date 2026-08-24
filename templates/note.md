@@ -1,6 +1,6 @@
-<%* let title = await tp.system.prompt("Note Title: "); await tp.file.rename(title); -%>---
-title: <% title %>
-draft: false
+---
+title: <% tp.file.title %>
+draft: true
 tags:
 ---
 <% tp.file.cursor(1) %><%* app.workspace.activeLeaf.view.editor?.focus(); %>
