@@ -7,7 +7,7 @@ A box plot is a data visualisation used to summarise the [[Measures of Central T
 
 ## Features
 
-![[image-2.png|399x148]]
+![[box-plot.png|399x148]]
 
  - The central orange line corresponds to the [[Median|median]] of the data.
  - The left and right edges of the central box are the $1^{st}$ and $3^{rd}$ [[Quartile|quartiles]]. Thus, the width of this box is the [[Interquartile Range|interquartile range]].

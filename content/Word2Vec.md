@@ -20,7 +20,7 @@ The continuous bag of words (CBOW) architecture aims to predict a word given its
 
 To predict a word, CBOW uses the sum (or [[Arithmetic Mean|average]]) of the context embeddings for the surrounding words to predict target embedding of the target word. 
 
-![[image.png|282x347]]
+![[cbow.png|282x347]]
 
 #### Training
 
@@ -32,7 +32,7 @@ The skip-gram architecture aims to predict the surrounding context given some wo
 
 CBOW uses a target embedding to predict the context embeddings.
 
-![[image-1 1.png|282x347]]
+![[skip_gram.png|282x347]]
 
 #### Training 
 

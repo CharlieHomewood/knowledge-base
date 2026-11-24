@@ -9,7 +9,7 @@ The receiver operating characteristic (ROC) curve is a plot used to compare the 
 
 Plotting the TPR and FPR produces an ROC curve. Below is an example
 
-![[image-3.png|291x288]]
+![[auc-curve.png|291x288]]
 
 We can interpret this plot in a couple of ways to learn about our model:
 
